@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Go Watch</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    <div id="video-container">
+        <video id="video" autoplay muted loop>
+            <source src="id/pd.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div id="content">
+        <h1>Welcome to Our Website</h1>
+        <p>Designer & Developer: Donald L. Boncodin</p>
+    </div>
+    <div id="clock"></div>
+    <script>
+        function updateClock() {
+            const clock = document.getElementById('clock');
+            const now = new Date();
+            const hours = now.getHours();
+            const ampm = hours >= 12 ? 'PM' : 'AM';
+            const formattedHours = (hours % 12 || 12).toString().padStart(2, '0');
+            const minutes = now.getMinutes().toString().padStart(2, '0');
+            const seconds = now.getSeconds().toString().padStart(2, '0');
+            const month = (now.getMonth() + 1).toString().padStart(2, '0');
+            const day = now.getDate().toString().padStart(2, '0');
+            const year = now.getFullYear();
+            const dateString = `${month}/${day}/${year}`;
+            const timeString = `${formattedHours}:${minutes}:${seconds} ${ampm}`;
+            const dateTimeString = `${dateString} ${timeString}`;
+            clock.textContent = dateTimeString;
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+    <ul class="social-media-icons">
+        <li><a href="https://www.facebook.com/dlb.1.0.2.0/" class="facebook">Facebook</a></li>
+        <li><a href="https://www.m.me/dlb.2.0.1.0/" class="messenger">Messenger</a></li>
+    </ul>
+        </style>
+        <div class="video-container">
+            <h3 class="video-title">CINEMO</h3>
+            <video id="videoPlayer1" controls width="480" height="360"></video>
+            <div class="video-container">
+                <h3 class="video-title">CINEMA ONE</h3>
+                <video id="videoPlayer2" controls width="480" height="360"></video>
+                <div class="video-container">
+                    <h3 class="video-title">TFC</h3>
+                    <video id="videoPlayer3" controls width="480" height="360"></video>
+                    <div class="video-container">
+                        <h3 class="video-title">MYX</h3>
+                        <video id="videoPlayer4" controls width="480" height="360"></video>
+                        <div class="video-container">
+                            <h3 class="video-title">TELERADYO</h3>
+                            <video id="videoPlayer5" controls width="480" height="360"></video>
+                            <div class="video-container">
+                                <h3 class="video-title">ANC</h3>
+                                <video id="videoPlayer6" controls width="480" height="360"></video>
+                                <div class="video-container">
+                                    <h3 class="video-title">VEVO 2K</h3>
+                                    <video id="videoPlayer7" controls width="480" height="360"></video>
+                                    <div class="video-container">
+                                        <h3 class="video-title">VEVO COUNTRY</h3>
+                                        <video id="videoPlayer8" controls width="480" height="360"></video>
+    </div>
+</div>
+<script>
+    if (Hls.isSupported()) {
+        const videoPlayer1 = document.getElementById('videoPlayer1');
+        const hls1 = new Hls();
+        hls1.loadSource('https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=cinemo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls1.attachMedia(videoPlayer1);
+        const videoPlayer2 = document.getElementById('videoPlayer2');
+        const hls2 = new Hls();
+        hls2.loadSource('https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8?utm_source=cinemaone&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls2.attachMedia(videoPlayer2);
+        const videoPlayer3 = document.getElementById('videoPlayer3');
+        const hls3 = new Hls();
+        hls3.loadSource('https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8?utm_source=tfcguam&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls3.attachMedia(videoPlayer3);
+        const videoPlayer4 = document.getElementById('videoPlayer4');
+        const hls4 = new Hls();
+        hls4.loadSource('https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8?utm_source=myxnola&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls4.attachMedia(videoPlayer4);
+        const videoPlayer5 = document.getElementById('videoPlayer5');
+        const hls5 = new Hls();
+        hls5.loadSource('https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=teleradyo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls5.attachMedia(videoPlayer5);
+        const videoPlayer6 = document.getElementById('videoPlayer6');
+        const hls6 = new Hls();
+        hls6.loadSource('https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=ancglobal&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls6.attachMedia(videoPlayer6);
+        const videoPlayer7 = document.getElementById('videoPlayer7');
+        const hls7 = new Hls();
+        hls7.loadSource('https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
+        hls7.attachMedia(videoPlayer7);
+        const videoPlayer8 = document.getElementById('videoPlayer8');
+        const hls8 = new Hls();
+        hls8.loadSource('https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
+        hls8.attachMedia(videoPlayer8);
+    }
+    </script>
+</body>
+</html>
+2023 All rights reserved

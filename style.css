@@ -1,0 +1,47 @@
+.social-media-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+.social-media-icons li {
+    margin-right: 10px;
+}
+.social-media-icons a {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+}
+.facebook {
+    background-image: url('id/m.fb.png');
+}
+.messenger {
+    background-image: url('id/m.me.png');
+}
+#clock {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+}
+#video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+#video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+#content {
+    z-index: 1;
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
