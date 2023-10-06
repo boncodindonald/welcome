@@ -3,74 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="x-icon" href="id/lg.png">
     <link rel="stylesheet" href="style.css">
-    <title>Go-Watch</title>
+    <title>Go Watch</title>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-    <div id="video-container">
-        <video id="video" autoplay muted loop>
-            <source src="id/pd.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+  
+  <ul class="social-media-icons">
+    <li><a href="https://www.facebook.com/dlb.1.0.2.0/" class="facebook">Facebook</a></li>
+    <li><a href="https://www.m.me/dlb.2.0.1.0/" class="messenger">Messenger</a></li>
+  </ul>
+  
+  <h1>GO WATCH</h1>
+
+  <div class="digital-clock">
+    <div class="clock">
+        <div id="time">
+            <span id="hour">12</span>:<span id="minute">00</span> <span id="ampm">AM</span>
+        </div>
+        <div id="date">
+                <span id="day">Day</span>, <span id="month">Month</span> <span id="day-num">00</span>, <span id="year">Year</span>
+            </div>
+        </div>
     </div>
-    <div id="content">
-        <h1>Welcome to Our Website</h1>
-        <p>Designer & Developer: Donald L. Boncodin</p>
-    </div>
-    <div id="clock"></div>
-    <script>
-        function updateClock() {
-            const clock = document.getElementById('clock');
-            const now = new Date();
-            const hours = now.getHours();
-            const ampm = hours >= 12 ? 'PM' : 'AM';
-            const formattedHours = (hours % 12 || 12).toString().padStart(2, '0');
-            const minutes = now.getMinutes().toString().padStart(2, '0');
-            const seconds = now.getSeconds().toString().padStart(2, '0');
-            const month = (now.getMonth() + 1).toString().padStart(2, '0');
-            const day = now.getDate().toString().padStart(2, '0');
-            const year = now.getFullYear();
-            const dateString = `${month}/${day}/${year}`;
-            const timeString = `${formattedHours}:${minutes}:${seconds} ${ampm}`;
-            const dateTimeString = `${dateString} ${timeString}`;
-            clock.textContent = dateTimeString;
-        }
-        setInterval(updateClock, 1000);
-        updateClock();
-    </script>
-    <ul class="social-media-icons">
-        <li><a href="https://www.facebook.com/dlb.1.0.2.0/" class="facebook">Facebook</a></li>
-        <li><a href="https://www.m.me/dlb.2.0.1.0/" class="messenger">Messenger</a></li>
-    </ul>
-        </style>
-        <div class="video-container">
-            <h3 class="video-title">CINEMO</h3>
-            <video id="videoPlayer1" controls width="480" height="360"></video>
-            <div class="video-container">
-                <h3 class="video-title">CINEMA ONE</h3>
-                <video id="videoPlayer2" controls width="480" height="360"></video>
-                <div class="video-container">
-                    <h3 class="video-title">TFC</h3>
-                    <video id="videoPlayer3" controls width="480" height="360"></video>
-                    <div class="video-container">
-                        <h3 class="video-title">MYX</h3>
-                        <video id="videoPlayer4" controls width="480" height="360"></video>
-                        <div class="video-container">
-                            <h3 class="video-title">TELERADYO</h3>
-                            <video id="videoPlayer5" controls width="480" height="360"></video>
-                            <div class="video-container">
-                                <h3 class="video-title">ANC</h3>
-                                <video id="videoPlayer6" controls width="480" height="360"></video>
-                                <div class="video-container">
-                                    <h3 class="video-title">VEVO 2K</h3>
-                                    <video id="videoPlayer7" controls width="480" height="360"></video>
-                                    <div class="video-container">
-                                        <h3 class="video-title">VEVO COUNTRY</h3>
-                                        <video id="videoPlayer8" controls width="480" height="360"></video>
-    </div>
-</div>
+
+    <div class="container-flex">
+        <div class="container">
+            <video id="videoPlayer1" controls>
+          </video>
+          <h2 class="title">CINEMO</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer2" controls>
+          </video>
+          <h2 class="title">CINEMA ONE</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer3" controls>
+          </video>
+          <h2 class="title">TFC</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer4" controls>
+          </video>
+          <h2 class="title">MYX</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer5" controls>
+          </video>
+          <h2 class="title">TELERADYO</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer6" controls>
+          </video>
+          <h2 class="title">ANC</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer7" controls>
+          </video>
+          <h2 class="title">VEVO 2K</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer8" controls>
+          </video>
+          <h2 class="title">VEVO COUNTRY</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer9" controls>
+          </video>
+          <h2 class="title">VEVO HIPHOP</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer10" controls>
+          </video>
+          <h2 class="title">VEVO POP</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer11" controls>
+          </video>
+          <h2 class="title">VEVO R&B</h2>
+        </div>
+        <div class="container">
+            <video id="videoPlayer12" controls>
+          </video>
+          <h2 class="title">CNN</h2>
+        </div>
+
+        <p>Designer & Developer Donald L. Boncodin</p>
+
 <script>
     if (Hls.isSupported()) {
         const videoPlayer1 = document.getElementById('videoPlayer1');
@@ -83,6 +103,8 @@
         hls2.attachMedia(videoPlayer2);
         const videoPlayer3 = document.getElementById('videoPlayer3');
         const hls3 = new Hls();
+        hls3.loadSource('https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8?utm_source=tfcguam&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
+        hls3.attachMedia(videoPlayer3);
         hls3.loadSource('https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8?utm_source=tfcguam&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
         hls3.attachMedia(videoPlayer3);
         const videoPlayer4 = document.getElementById('videoPlayer4');
@@ -105,8 +127,26 @@
         const hls8 = new Hls();
         hls8.loadSource('https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
         hls8.attachMedia(videoPlayer8);
+        const videoPlayer9 = document.getElementById('videoPlayer9');
+        const hls9 = new Hls();
+        hls9.loadSource('https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
+        hls9.attachMedia(videoPlayer9);
+        const videoPlayer10 = document.getElementById('videoPlayer10');
+        const hls10 = new Hls();
+        hls10.loadSource('https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
+        hls10.attachMedia(videoPlayer10);
+        const videoPlayer11 = document.getElementById('videoPlayer11');
+        const hls11 = new Hls();
+        hls11.loadSource('https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
+        hls11.attachMedia(videoPlayer11);
+        const videoPlayer12 = document.getElementById('videoPlayer12');
+        const hls12 = new Hls();
+        hls12.loadSource('https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D');
+        hls12.attachMedia(videoPlayer12);
     }
     </script>
+
+<script src="ck.js"></script>
+    
 </body>
 </html>
-2023 All rights reserved
