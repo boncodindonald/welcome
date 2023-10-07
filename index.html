@@ -143,6 +143,11 @@
         </video>
         <h2 class="title">MAGELLAN TV NOW</h2>
         </div>
+        <div class="container">
+          <video id="videoPlayer24" controls>
+        </video>
+        <h2 class="title">NEW KPOP</h2>
+        </div>
 
 <script>
     if (Hls.isSupported()) {
@@ -240,6 +245,10 @@
         const hls23 = new Hls();
         hls23.loadSource('https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
         hls23.attachMedia(videoPlayer23);
+        const videoPlayer24 = document.getElementById('videoPlayer24');
+        const hls24 = new Hls();
+        hls24.loadSource('https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
+        hls24.attachMedia(videoPlayer24);
     }
     </script>
 
