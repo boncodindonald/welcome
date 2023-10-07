@@ -11,12 +11,14 @@ body {
     justify-content: space-around;
 }
 .container {
-    background-color: rgb(15, 15, 15);
-    border: 2px solid rgb(15, 15, 15);
-    box-shadow: 0 0 10px rgba(15, 15, 15, 15);
-    border-radius: 5px;
-    padding: 20px;
+    background-color: #000;
+    border: 1.1px solid rgba( 40, 40, 40, 0.8);
+    box-shadow: 0 0 10px rgba(15, 15, 15);
+    border-radius: 1px;
+    padding: 1.4px;
     max-width: 300px;
+    max-height: 300px;
+    margin-top: 10PX;
     text-align: center;
 }
 .container video {
@@ -24,11 +26,13 @@ body {
     height: auto;
 }
 .title {
-    background-color: #202020;
+    background-color: #000;
+    border: 1px solid rgba( 40, 40, 40, 0.8);
+    border-radius: 1px;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
-    padding: 10px;
+    padding: 2px;
     margin: 0;
     text-align: center;
     text-overflow: ellipsis;
