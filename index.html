@@ -271,6 +271,11 @@
   </video>
   <h2 class="title">BBC AMERICA</h2>
   </div>
+  <div class="container">
+  <video id="videoPlayer50" controls>
+  </video>
+  <h2 class="title">SUNDANCE TV</h2>
+  </div>
         
   <script>
   if (Hls.isSupported()) {
@@ -472,6 +477,10 @@
   const hls49 = new Hls();
   hls49.loadSource('https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8');
   hls49.attachMedia(videoPlayer49);
+  const videoPlayer50 = document.getElementById('videoPlayer50');
+  const hls50 = new Hls();
+  hls50.loadSource('https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8');
+  hls50.attachMedia(videoPlayer50);
   }
   </script>
 
