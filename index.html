@@ -246,6 +246,16 @@
   </video>
   <h2 class="title">NBC NEWS NOW</h2>
   </div>
+  <div class="container">
+  <video id="videoPlayer45" controls>
+  </video>
+  <h2 class="title">KBS WORLD</h2>
+  </div>
+  <div class="container">
+  <video id="videoPlayer46" controls>
+  </video>
+  <h2 class="title">ARIRANG</h2>
+  </div>
         
   <script>
   if (Hls.isSupported()) {
@@ -427,6 +437,14 @@
   const hls44 = new Hls();
   hls44.loadSource('https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerNam');
   hls44.attachMedia(videoPlayer44);
+  const videoPlayer45 = document.getElementById('videoPlayer45');
+  const hls45 = new Hls();
+  hls45.loadSource('https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8');
+  hls45.attachMedia(videoPlayer45);
+  const videoPlayer46 = document.getElementById('videoPlayer46');
+  const hls46 = new Hls();
+  hls46.loadSource('https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8');
+  hls46.attachMedia(videoPlayer46);
   }
   </script>
 
