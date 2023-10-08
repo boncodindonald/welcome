@@ -39,29 +39,14 @@ body {
     white-space: nowrap;
     overflow: hidden;
 }
-h1, p {
-    text-align: center;
-    font-style: italic;
-}
-.digital-clock {
-    font-family: Arial, sans-serif;
-    font-size: 15px;
-    color:  #ffffff;
-    text-align: center;
-}
-.clock {
-    display: inline-block;
-}
-#date {
-    margin-top: 10px;
-}
 .social-media-icons {
     list-style: none;
     padding: 0;
     display: flex;
 }
 .social-media-icons li {
-    margin-right: 5px;
+    margin-right: 2px;
+    margin-left: 2px;
 }
 .social-media-icons a {
     display: block;
