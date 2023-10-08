@@ -265,6 +265,11 @@
   </video>
   <h2 class="title">SUNDANCE TV</h2>
   </div>
+  <div class="container">
+  <video id="videoPlayer51" controls>
+  </video>
+  <h2 class="title">IFC</h2>
+  </div>
         
   <script>
   if (Hls.isSupported()) {
@@ -470,6 +475,10 @@
   const hls50 = new Hls();
   hls50.loadSource('https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8');
   hls50.attachMedia(videoPlayer50);
+  const videoPlayer51 = document.getElementById('videoPlayer51');
+  const hls51 = new Hls();
+  hls51.loadSource('https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8');
+  hls51.attachMedia(videoPlayer51);
   }
   </script>
 
