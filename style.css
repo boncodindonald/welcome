@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(15, 15, 15);
-    color: #ffffff;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    transition: background-color 0.0s, color 0.0s;
+}
+body.dark-mode {
+    background-color: #0f0f0f;
+    color: #f1f1f1;
 }
 .container-flex {
     display: flex;
@@ -11,11 +11,11 @@ body {
     justify-content: space-around;
 }
 .container {
-    background-color: #000;
-    border: 1.1px solid rgba( 40, 40, 40, 0.8);
-    box-shadow: 0 0 10px rgba(15, 15, 15);
-    border-radius: 1px;
-    padding: 1.4px;
+    background-color: #0f0f0f;
+    border: 1px solid #717171;
+    box-shadow: 0 0 0px #717171;
+    border-radius: 2.1px;
+    padding: 0.6px;
     max-width: 300px;
     max-height: 300px;
     margin-top: 10PX;
@@ -26,13 +26,13 @@ body {
     height: auto;
 }
 .title {
-    background-color: #000;
-    border: 1px solid rgba( 40, 40, 40, 0.8);
-    border-radius: 1px;
-    color: #ffffff;
-    font-size: 15px;
+    background-color: #0f0f0f;
+    border: 0.0px solid #0f0f0f;
+    border-radius: 0.0px;
+    color: hsla(0, 100%, 100%, 0.88);
+    font-size: 16px;
     font-weight: bold;
-    padding: 2px;
+    padding: 0.0px;
     margin: 0;
     text-align: center;
     text-overflow: ellipsis;
@@ -61,4 +61,22 @@ body {
 }
 .messenger {
     background-image: url('id/m.me.png');
+}
+.title-container {
+    text-align: center;
+}
+.titlec {
+    opacity: 0;
+    font-size: 2em;
+    animation: fadeIn 2s ease-in-out forwards;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
