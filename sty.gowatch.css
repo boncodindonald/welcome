@@ -55,22 +55,29 @@ video::-webkit-media-controls-fullscreen-button {
     display: flex;
 }
 .social-media-icons li {
-    margin-right: 2px;
-    margin-left: 2px;
-}
-.social-media-icons a {
-    display: block;
-    width: 20px;
-    height: 20px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-indent: -9999px;
+    margin-right: 0.1px;
+    margin-left: 18px;
 }
 .facebook {
-    background-image: url('id/m.fb.png');
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: url('id/m.fb.png') no-repeat;
+    text-indent: -9999px;
+    background-size: cover;
+    transition: transform 0.3s ease-in-out;
 }
 .messenger {
-    background-image: url('id/m.me.png');
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: url('id/m.me.png') no-repeat;
+    text-indent: -9999px;
+    background-size: cover;
+    transition: transform 0.3s ease-in-out;
+}
+.social-media-icons li a:hover {
+    transform: scale(1.2);
 }
 .title-container {
     text-align: center;
