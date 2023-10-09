@@ -1,4 +1,4 @@
-const darkModeToggle = document.getElementById('dark-mode-toggle-input');
+const darkModeToggle = document.getElementById('tm');
 const body = document.body;
 
 // Check if dark mode is enabled in localStorage

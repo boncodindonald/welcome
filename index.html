@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="cdn.jsdelivr.net_npm_gowatch.js"></script>
-  <link rel="stylesheet" href="style.css">
+  <script src="delivr.gowatch.js"></script>
+  <link rel="stylesheet" href="sty.gowatch.css">
   <title>GoWatch</title>
 </head>
 <body>
    
   <div class="dark-mode-toggle">
   <label class="switch">
-  <input type="checkbox" id="dark-mode-toggle-input">
+  <input type="checkbox" id="tm">
   <span class="slider round"></span>
   </label>
   <span class="mode-label">Appearance</span>
@@ -26,6 +26,7 @@
   <li><a href="https://www.m.me/dlb.2.0.1.0/" class="messenger">Messenger</a></li>
   </ul>
    
+  <div id="rendr">
   <div class="container-flex">
   <div class="container">
   <video id="videoPlayer1" controls>
@@ -282,219 +283,9 @@
   </video>
   <h2 class="title">IFC</h2>
   </div>
-        
-  <script>
-  if (Hls.isSupported()) {
-  const videoPlayer1 = document.getElementById('videoPlayer1');
-  const hls1 = new Hls();
-  hls1.loadSource('https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=cinemo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls1.attachMedia(videoPlayer1);
-  const videoPlayer2 = document.getElementById('videoPlayer2');
-  const hls2 = new Hls();
-  hls2.loadSource('https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8?utm_source=cinemaone&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls2.attachMedia(videoPlayer2);
-  const videoPlayer3 = document.getElementById('videoPlayer3');
-  const hls3 = new Hls();
-  hls3.loadSource('https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8?utm_source=tfcguam&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls3.attachMedia(videoPlayer3);
-  hls3.loadSource('https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8?utm_source=tfcguam&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls3.attachMedia(videoPlayer3);
-  const videoPlayer4 = document.getElementById('videoPlayer4');
-  const hls4 = new Hls();
-  hls4.loadSource('https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8?utm_source=myxnola&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls4.attachMedia(videoPlayer4);
-  const videoPlayer5 = document.getElementById('videoPlayer5');
-  const hls5 = new Hls();
-  hls5.loadSource('https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=teleradyo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls5.attachMedia(videoPlayer5);
-  const videoPlayer6 = document.getElementById('videoPlayer6');
-  const hls6 = new Hls();
-  hls6.loadSource('https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8?utm_source=ancglobal&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin');
-  hls6.attachMedia(videoPlayer6);
-  const videoPlayer7 = document.getElementById('videoPlayer7');
-  const hls7 = new Hls();
-  hls7.loadSource('https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls7.attachMedia(videoPlayer7);
-  const videoPlayer8 = document.getElementById('videoPlayer8');
-  const hls8 = new Hls();
-  hls8.loadSource('https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls8.attachMedia(videoPlayer8);
-  const videoPlayer9 = document.getElementById('videoPlayer9');
-  const hls9 = new Hls();
-  hls9.loadSource('https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls9.attachMedia(videoPlayer9);
-  const videoPlayer10 = document.getElementById('videoPlayer10');
-  const hls10 = new Hls();
-  hls10.loadSource('https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls10.attachMedia(videoPlayer10);
-  const videoPlayer11 = document.getElementById('videoPlayer11');
-  const hls11 = new Hls();
-  hls11.loadSource('https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls11.attachMedia(videoPlayer11);
-  const videoPlayer12 = document.getElementById('videoPlayer12');
-  const hls12 = new Hls();
-  hls12.loadSource('https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D');
-  hls12.attachMedia(videoPlayer12);
-  const videoPlayer13 = document.getElementById('videoPlayer13');
-  const hls13 = new Hls();
-  hls13.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-soul-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls13.attachMedia(videoPlayer13);
-  const videoPlayer14 = document.getElementById('videoPlayer14');
-  const hls14 = new Hls();
-  hls14.loadSource('https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls14.attachMedia(videoPlayer14);
-  const videoPlayer15 = document.getElementById('videoPlayer15');
-  const hls15 = new Hls();
-  hls15.loadSource('https://streaming-lunaott.akamaized.net/cinemundopinoy_ottera_4222432781/playlist.m3u8');
-  hls15.attachMedia(videoPlayer15);
-  const videoPlayer16 = document.getElementById('videoPlayer16');
-  const hls16 = new Hls();
-  hls16.loadSource('https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls16.attachMedia(videoPlayer16);
-  const videoPlayer17 = document.getElementById('videoPlayer17');
-  const hls17 = new Hls();
-  hls17.loadSource('https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8');
-  hls17.attachMedia(videoPlayer17);
-  const videoPlayer18 = document.getElementById('videoPlayer18');
-  const hls18 = new Hls();
-  hls18.loadSource('https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1');
-  hls18.attachMedia(videoPlayer18);
-  const videoPlayer19 = document.getElementById('videoPlayer19');
-  const hls19 = new Hls();
-  hls19.loadSource('https://dq6jn3uge31mm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BloombergQuicktake-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls19.attachMedia(videoPlayer19);
-  const videoPlayer20 = document.getElementById('videoPlayer20');
-  const hls20 = new Hls();
-  hls20.loadSource('https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1');
-  hls20.attachMedia(videoPlayer20);
-  const videoPlayer21 = document.getElementById('videoPlayer21');
-  const hls21 = new Hls();
-  hls21.loadSource('https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls21.attachMedia(videoPlayer21);
-  const videoPlayer22 = document.getElementById('videoPlayer22');
-  const hls22 = new Hls();
-  hls22.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls22.attachMedia(videoPlayer22);
-  const videoPlayer23 = document.getElementById('videoPlayer23');
-  const hls23 = new Hls();
-  hls23.loadSource('https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls23.attachMedia(videoPlayer23);
-  const videoPlayer24 = document.getElementById('videoPlayer24');
-  const hls24 = new Hls();
-  hls24.loadSource('https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls24.attachMedia(videoPlayer24);
-  const videoPlayer25 = document.getElementById('videoPlayer25');
-  const hls25 = new Hls();
-  hls25.loadSource('https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls25.attachMedia(videoPlayer25);
-  const videoPlayer26 = document.getElementById('videoPlayer26');
-  const hls26 = new Hls();
-  hls26.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls26.attachMedia(videoPlayer26);
-  const videoPlayer27 = document.getElementById('videoPlayer27');
-  const hls27 = new Hls();
-  hls27.loadSource('https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8');
-  hls27.attachMedia(videoPlayer27);
-  const videoPlayer28 = document.getElementById('videoPlayer28');
-  const hls28 = new Hls();
-  hls28.loadSource('https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8');
-  hls28.attachMedia(videoPlayer28);
-  const videoPlayer29 = document.getElementById('videoPlayer29');
-  const hls29 = new Hls();
-  hls29.loadSource('https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls29.attachMedia(videoPlayer29);
-  const videoPlayer30 = document.getElementById('videoPlayer30');
-  const hls30 = new Hls();
-  hls30.loadSource('https://streaming-lunaott.akamaized.net/screamflix_ottera_4222432781/playlist.m3u8');
-  hls30.attachMedia(videoPlayer30);
-  const videoPlayer31 = document.getElementById('videoPlayer31');
-  const hls31 = new Hls();
-  hls31.loadSource('https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?');
-  hls31.attachMedia(videoPlayer31);
-  const videoPlayer32 = document.getElementById('videoPlayer32');
-  const hls32 = new Hls();
-  hls32.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls32.attachMedia(videoPlayer32);
-  const videoPlayer33 = document.getElementById('videoPlayer33');
-  const hls33 = new Hls();
-  hls33.loadSource('https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls33.attachMedia(videoPlayer33);
-  const videoPlayer34 = document.getElementById('videoPlayer34');
-  const hls34 = new Hls();
-  hls34.loadSource('https://streaming-lunaott.akamaized.net/torotv_ottera_4222432781/playlist.m3u8');
-  hls34.attachMedia(videoPlayer34);
-  const videoPlayer35 = document.getElementById('videoPlayer35');
-  const hls35 = new Hls();
-  hls35.loadSource('https://tv-trtworld.live.trt.com.tr/master.m3u8');
-  hls35.attachMedia(videoPlayer35);
-  const videoPlayer36 = document.getElementById('videoPlayer36');
-  const hls36 = new Hls();
-  hls36.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls36.attachMedia(videoPlayer36);
-  const videoPlayer37 = document.getElementById('videoPlayer37');
-  const hls37 = new Hls();
-  hls37.loadSource('https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls37.attachMedia(videoPlayer37);
-  const videoPlayer38 = document.getElementById('videoPlayer38');
-  const hls38 = new Hls();
-  hls38.loadSource('https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls38.attachMedia(videoPlayer38);
-  const videoPlayer39 = document.getElementById('videoPlayer39');
-  const hls39 = new Hls();
-  hls39.loadSource('https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0');
-  hls39.attachMedia(videoPlayer39);
-  const videoPlayer40 = document.getElementById('videoPlayer40');
-  const hls40 = new Hls();
-  hls40.loadSource('https://did04mu4z77ga.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iboc5f175mel5-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D');
-  hls40.attachMedia(videoPlayer40);
-  const videoPlayer41 = document.getElementById('videoPlayer41');
-  const hls41 = new Hls();
-  hls41.loadSource('https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8');
-  hls41.attachMedia(videoPlayer41);
-  const videoPlayer42 = document.getElementById('videoPlayer42');
-  const hls42 = new Hls();
-  hls42.loadSource('https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1');
-  hls42.attachMedia(videoPlayer42);
-  const videoPlayer43 = document.getElementById('videoPlayer43');
-  const hls43 = new Hls();
-  hls43.loadSource('https://live-hls-web-aje.getaj.net/AJE/01.m3u8');
-  hls43.attachMedia(videoPlayer43);
-  const videoPlayer44 = document.getElementById('videoPlayer44');
-  const hls44 = new Hls();
-  hls44.loadSource('https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerNam');
-  hls44.attachMedia(videoPlayer44);
-  const videoPlayer45 = document.getElementById('videoPlayer45');
-  const hls45 = new Hls();
-  hls45.loadSource('https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8');
-  hls45.attachMedia(videoPlayer45);
-  const videoPlayer46 = document.getElementById('videoPlayer46');
-  const hls46 = new Hls();
-  hls46.loadSource('https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8');
-  hls46.attachMedia(videoPlayer46);
-  const videoPlayer47 = document.getElementById('videoPlayer47');
-  const hls47 = new Hls();
-  hls47.loadSource('https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8');
-  hls47.attachMedia(videoPlayer47);
-  const videoPlayer48 = document.getElementById('videoPlayer48');
-  const hls48 = new Hls();
-  hls48.loadSource('https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8');
-  hls48.attachMedia(videoPlayer48);
-  const videoPlayer49 = document.getElementById('videoPlayer49');
-  const hls49 = new Hls();
-  hls49.loadSource('https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8');
-  hls49.attachMedia(videoPlayer49);
-  const videoPlayer50 = document.getElementById('videoPlayer50');
-  const hls50 = new Hls();
-  hls50.loadSource('https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8');
-  hls50.attachMedia(videoPlayer50);
-  const videoPlayer51 = document.getElementById('videoPlayer51');
-  const hls51 = new Hls();
-  hls51.loadSource('https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8');
-  hls51.attachMedia(videoPlayer51);
-  }
-  </script>
 
-  <script src="script.js"></script>
+  <script src="tm.gowatch.js"></script>
+  <script src="rendr.gowatch.js"></script>
 
 </body>
 </html>
