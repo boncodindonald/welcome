@@ -196,15 +196,15 @@ document.addEventListener("DOMContentLoaded", function() {
   hls48.attachMedia(videoPlayer48);
   const videoPlayer49 = document.getElementById('videoPlayer49');
   const hls49 = new Hls();
-  hls49.loadSource('https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8');
+  hls49.loadSource('https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/chunklist_b64000.m3u8');
   hls49.attachMedia(videoPlayer49);
   const videoPlayer50 = document.getElementById('videoPlayer50');
   const hls50 = new Hls();
-  hls50.loadSource('https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8');
+  hls50.loadSource('https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/chunklist_b732000.m3u8');
   hls50.attachMedia(videoPlayer50);
   const videoPlayer51 = document.getElementById('videoPlayer51');
   const hls51 = new Hls();
-  hls51.loadSource('https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8');
+  hls51.loadSource('https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8');
   hls51.attachMedia(videoPlayer51);
 }
 });
