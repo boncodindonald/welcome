@@ -14,7 +14,7 @@ body.dark-mode {
     background-color: #0f0f0f;
     border: 1px solid #717171;
     box-shadow: 0 0 0px #717171;
-    border-radius: 2.1px;
+    border-radius: 4.6px;
     padding: 0.6px;
     max-width: 300px;
     max-height: 300px;
@@ -38,7 +38,7 @@ video::-webkit-media-controls {
 .title {
     background-color: #0f0f0f;
     border: 0.0px solid #0f0f0f;
-    border-radius: 0.0px;
+    border-radius: 4.6px;
     color: hsla(0, 100%, 100%, 0.88);
     font-size: 16px;
     font-weight: bold;
