@@ -29,11 +29,24 @@ video::-webkit-media-controls-play-button,
 video::-webkit-media-controls-pause-button,
 video::-webkit-media-controls-mute-button,
 video::-webkit-media-controls-unmute-button,
+video::-webkit-media-controls-fullscreen-button,
+video::-webkit-media-controls-mute-button,
+video::-webkit-media-controls-volume-slider,
+video::-webkit-media-controls-volume-slider-container,
+video::-webkit-media-controls-current-time-display,
+video::-webkit-media-controls-time-remaining-display,
+video::-webkit-media-controls-seek-back-button,
+video::-webkit-media-controls-seek-forward-button,
+video::-webkit-media-controls-panel,
 video::-webkit-media-controls-timeline {
-    -webkit-animation: none !important;
+    transition: none !important;
+    animation: none !important;
+    display: none !important;
 }
 video::-webkit-media-controls {
-    -webkit-transition: none !important;
+    display: none !important;
+    animation: none !important;
+    transition: none !important;
 }
 .title {
     background-color: #0f0f0f;
