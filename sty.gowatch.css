@@ -12,7 +12,7 @@ body.dark-mode {
 }
 .container {
     background-color: #0f0f0f;
-    border: 1px solid #717171;
+    border: 1px solid #0f0f0f;
     box-shadow: 0 0 0px #717171;
     border-radius: 4.6px;
     padding: 0.6px;
