@@ -11,13 +11,17 @@ body.dark-mode {
     justify-content: space-around;
 }
 .container {
+    background-color: #0f0f0f;
+    border: 1px solid #717171;
+    box-shadow: 0 0 0px #717171;
+    border-radius: 2.1px;
+    padding: 0.6px;
+    max-width: 300px;
+    max-height: 300px;
+    margin-top: 10PX;
     text-align: center;
-    margin-top: 10px;
-    max-width: 310px;
-    max-height: 305px;
 }
 .container video {
-    border-radius: 4.6px
     width: 100%;
     height: auto;
 }
@@ -25,29 +29,16 @@ video::-webkit-media-controls-play-button,
 video::-webkit-media-controls-pause-button,
 video::-webkit-media-controls-mute-button,
 video::-webkit-media-controls-unmute-button,
-video::-webkit-media-controls-fullscreen-button,
-video::-webkit-media-controls-mute-button,
-video::-webkit-media-controls-volume-slider,
-video::-webkit-media-controls-volume-slider-container,
-video::-webkit-media-controls-current-time-display,
-video::-webkit-media-controls-time-remaining-display,
-video::-webkit-media-controls-seek-back-button,
-video::-webkit-media-controls-seek-forward-button,
-video::-webkit-media-controls-panel,
 video::-webkit-media-controls-timeline {
-    transition: none !important;
-    animation: none !important;
-    display: none !important;
+    -webkit-animation: none !important;
 }
 video::-webkit-media-controls {
-    display: none !important;
-    animation: none !important;
-    transition: none !important;
+    -webkit-transition: none !important;
 }
 .title {
     background-color: #0f0f0f;
     border: 0.0px solid #0f0f0f;
-    border-radius: 4.6px;
+    border-radius: 0.0px;
     color: hsla(0, 100%, 100%, 0.88);
     font-size: 16px;
     font-weight: bold;
