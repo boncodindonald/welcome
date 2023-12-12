@@ -25,6 +25,10 @@ body.dark-mode {
     width: 100%;
     height: auto;
 }
+.container iframe {
+    width: 100%;
+    height: auto;
+}
 video::-webkit-media-controls-play-button,
 video::-webkit-media-controls-pause-button,
 video::-webkit-media-controls-mute-button,
