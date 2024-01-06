@@ -31,23 +31,29 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-name="CINEMO" tvg-logo="" group-title="GO WATCH", CINEMO
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=RLhjX4idvdDVPh8gaaUuig&kid=AA8AEBE3-5CCC-4541-B7CE-6292EFCB1BFB
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=AA8AEBE3-5CCC-4541-B7CE-6292EFCB1BFB
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/05a45c1f-c27e-4e47-8855-77311c299ff8/index.mpd?utm_source=cinemo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="CINEMA ONE" tvg-logo="" group-title="GO WATCH", CINEMA ONE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=Tka9BkNNC9ZSLF9lkJSvKg&kid=58D0E569-9119-4043-B8FB-82FEB4DB7276
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=58D0E569-9119-4043-B8FB-82FEB4DB7276
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/93418633-c63d-4120-9045-750bcd3b5f1a/index.mpd?utm_source=cinemaone&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="ANC GLOBAL" tvg-logo="" group-title="GO WATCH", ANC GLOBAL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=3wcLfWHmaClOR28nULaBKg&kid=4BBDC780-24A5-4662-854B-412D01FAFA16
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=4BBDC780-24A5-4662-854B-412D01FAFA16
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/dc1d3f49-78c0-40bf-b512-5a2647f61497/index.mpd?utm_source=anc&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="GMA NEWS TV" tvg-logo="" group-title="GO WATCH", GMA NEWS TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=3UEI9UqpBN8VELEQOFwLWw&kid=f1d76704-a9f8-4ce2-8e7e-3d154c7dc5b1
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=f1d76704-a9f8-4ce2-8e7e-3d154c7dc5b1
 https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd?utm_source=gmanw&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+
+#EXTINF:-1 tvg-name="GMA LIFE TV" tvg-logo="" group-title="GO WATCH", GMA LIFE TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=IBjz9ROk0JZCzVQNTSHGQA&kid=369bcd59-1a7e-42ce-a6a8-29879962ee77
+https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd?utm_source=gmalfha&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
