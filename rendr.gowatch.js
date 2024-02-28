@@ -198,5 +198,9 @@ document.addEventListener("DOMContentLoaded", function() {
   const hls49 = new Hls();
   hls49.loadSource('https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/def949dc-0a45-4a2a-a550-4f70d19f45d9:DLS/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221a4f59ed-5492-4cc0-979b-dbf485d4d928%22%2Csu');
   hls49.attachMedia(videoPlayer49);
+  const videoPlayer50 = document.getElementById('videoPlayer50');
+  const hls50 = new Hls();
+  hls50.loadSource('https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/210bd86a-39bd-4d27-96c6-65889e9298f4:TUL/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2228ec9fe4-4a74-4fe9-a6f5-2e6fa63fc6c7%22%2Csu');
+  hls50.attachMedia(videoPlayer50);
 }
 });
