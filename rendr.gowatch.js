@@ -194,5 +194,9 @@ document.addEventListener("DOMContentLoaded", function() {
   const hls48 = new Hls();
   hls48.loadSource('https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8');
   hls48.attachMedia(videoPlayer48);
+  const videoPlayer49 = document.getElementById('videoPlayer49');
+  const hls49 = new Hls();
+  hls49.loadSource('https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/def949dc-0a45-4a2a-a550-4f70d19f45d9:DLS/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221a4f59ed-5492-4cc0-979b-dbf485d4d928%22%2Csu');
+  hls49.attachMedia(videoPlayer49);
 }
 });
