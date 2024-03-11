@@ -38,7 +38,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=58D0E569-9119-4043-B8FB-82FEB4DB7276
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/93418633-c63d-4120-9045-750bcd3b5f1a/index.mpd?utm_source=cinemaone&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd?utm_source=cinemaone&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="ANC Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/320px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="GO WATCH", ANC Global
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
