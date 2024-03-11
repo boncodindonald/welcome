@@ -8,7 +8,7 @@ https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd?utm_source=kc&ut
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=au78wbTlFqYMFHHTRIHw2g&kid=f40a52a3-ac9b-4702-bdd5-b735d910fd2f
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/9110d17b-b0e1-41c7-a7f4-8e116a7bcc75/index.mpd?utm_source=myx&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd?utm_source=myx&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="MOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="GO WATCH", MOR
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
