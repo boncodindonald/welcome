@@ -20,7 +20,7 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd?utm_source=mor&
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=u9utkfXpxeC7SMjWD2ik0Q&kid=47C093E0-C9FD-4F80-839A-0337DA3DD876
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/e809df8b-82ac-4b3b-bd2c-fde2297a2165/index.mpd?utm_source=teleradyo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?utm_source=teleradyo&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
 
 #EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/320px-Kapamilya_Channel_Logo_2020.svg.png" group-title="GO WATCH", Kapamilya Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
