@@ -99,3 +99,27 @@ http://jp.vthanhnetwork.com/MTV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 1: Aang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/320px-Avatar_The_Last_Airbender_logo.svg.png" group-title="GO WATCH", Avatar: The Last Airbender Episode 1: Aang
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://pnagb.mv20h0jna.site/_v2-eknz/12a3c523fd105800ed8c394685aeeb0bc12ef95c06bdf7b1170d7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23a5270f0d730c051f40b16ec095691a6b03e177e136464d63410043fc294c5f71397e62890204ba44c112bbd09b3b76a4c/h/bcdcbcbd3/ddaddda;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8
+
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 2: Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/320px-Avatar_The_Last_Airbender_logo.svg.png" group-title="GO WATCH", Avatar: The Last Airbender Episode 2: Warriors
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://pnagb.mv20h0jna.site/_v2-ekbz/12a3c523f3105800ed8c394685aeeb0b962ea85c5ab0b9b308407baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a13b1022a18933c511a75d4de80a5691a6b03e552e423d65dc705b1f6fd1cd9ee90896f22b86274ffb100c60/h/ab3/d;15a38634f803584ba8926411d7bee906856cab0654b5bd.m3u8
+
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 3: Omashu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/320px-Avatar_The_Last_Airbender_logo.svg.png" group-title="GO WATCH", Avatar: The Last Airbender Episode 3: Omashu
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://govbw.mcloud.bz/_s2-vrln/1aa38522fb064f42a6d1671aceb9aa408d6ef6164abab3bb551572aaac3ac6c62a43d210103e63b3aa76d45da94aed8af789cd1f8a7cd2fed3e5f16a0235a489639545eb0a1bba454195aaa3694339403d50ff34190c3281ce9ab04b93f466c52b4df80c0623e352e2a87645e95b1c9cf22084fd301c49/h/hls/720/720.m3u8
+
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 4: Into the Dark" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/320px-Avatar_The_Last_Airbender_logo.svg.png" group-title="GO WATCH", Avatar: The Last Airbender Episode 4: Into the Dark
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://govbw.mcloud.bz/_s2-oanz/1aa38522f9094f42a6d1671eceb9aa408d6ef6164abab3b1554472a8ac3a81c17f43d210103e63b3aa76d45da94aed8af789cd1f8a7cd2fed3e5f16a0235a489639545eb0a1bba454195aaa3694339403d50ff34190c3281ce9ab04b93f466c52b4df80c0623e352e2b16547fd5b1c9cf22084fd301c49/h/hls/720/720.m3u8
