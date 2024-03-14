@@ -153,3 +153,15 @@ https://l.pollllop.com/_v11/36a0a527be7d6e60601ef2d6606c4a9b77bb77f790f40a983c89
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://n.pollllop.com/_v11/3b20a119e1467942ea649f4cfaeb0248428f955fb7c1323729516e99f617f6abad1372872f8093d05d8b8d76c24bf17e4e5a59fbc79ed4c0fce9b8f20213e4b2fadb5fbb256fb8127250e4317cc0b1a77a9a6d3bf265c514352765c20915435df2f459b22ea96fa7ed8b9f62e409655e673f15ce76d68462ccb073da04458f3fa39fb13affe936b50b28f04885ba7e19/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Avatar" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg" group-title="GO WATCH", Avatar
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://s.pollllop.com/_v11/d6291898b609b71e68f4633273d2754f12b90e18f1c4e224519264b46624d78fcc84da4046fe720fa9922037b2fb615649fec4cd2a79a75295740ad5a89e5b871d7204c5a07583f56913af6439351b86c3bdee6516be59a35ac7534376f3f39fc47d71405e8d156a479e4608b88937e90403848357fa389e0f6f25a60e1d766039cde2d1a354725fab454beb37be0124/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Avatar: The Way of Water" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg" group-title="GO WATCH", Avatar: The Way of Water
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://r.pollllop.com/_v11/8db9371661b8973f384ed23cda52c2c6376cb9e89640efb9e5fbe13eb02382007e96ba8006c317b2f0e8db77eb08be5375e585a11b650a560d89cbcb0311ae5176f24b3e01bb631e074030ece69bc4cee26588ccc76896c87198aaef269e75c79729c5e7ec1edc8361508b7b32055a30c4814d9a47d97a831ccdd698602cd69343267fb17cc3b9782801692bdb016b63/720/index.m3u8
