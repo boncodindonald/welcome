@@ -147,3 +147,9 @@ https://o.pollllop.com/_v11/e7a7d8b4691c2f760368ccf63c2010039324b186be28d2eb3385
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://l.pollllop.com/_v11/36a0a527be7d6e60601ef2d6606c4a9b77bb77f790f40a983c8924710a407b4d0191492c806bf4de0bdac8659e0565bb52903416fa1a69e6fa3ccda720cecb2ff75f49efa858c7a645fe69c49e6d2f5cec1c0145b225679e9eb1ec104a73e5418cdfb51f30405c423f6d88068b479467a18cbf4bc8cda2059c794dfb5e2724de88f001d787d6cf5d2013346cb294d11f/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Oppenheimer" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiZTQzZGYtMjJmZS00YTQ0LTg4NmItZGE2NTcwYmNmMjk4XkEyXkFqcGdeQXVyMTA0MDM3NDg4._V1_.jpg" group-title="GO WATCH", Oppenheimer
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://n.pollllop.com/_v11/3b20a119e1467942ea649f4cfaeb0248428f955fb7c1323729516e99f617f6abad1372872f8093d05d8b8d76c24bf17e4e5a59fbc79ed4c0fce9b8f20213e4b2fadb5fbb256fb8127250e4317cc0b1a77a9a6d3bf265c514352765c20915435df2f459b22ea96fa7ed8b9f62e409655e673f15ce76d68462ccb073da04458f3fa39fb13affe936b50b28f04885ba7e19/720/index.m3u8
