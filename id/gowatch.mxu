@@ -622,10 +622,11 @@ https://r.pollllop.com/_v11/61562b402cee65afa153a326e7ce5136d747c2b3a15e29b6a51d
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://l.pollllop.com/_v11/bb046100ee2643a857f2f7ad5089e056cb1055d80d0b6af6302781b85db226d05fc777e23e304fb9972aa18b81d4617e84c0bd4d62ff8b3b26877ffecbaad447009c08cc7ff30ab5807e22f77ad3356ec6fecd9928de1746eacfbb39da7572b8cfae68aa0b7f8d3e3caaabd12bcd9f41c30aa169d756c53e700fc06783f0a66cb7549fcc130c7f0cb7264cbaf20f33ef/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Coco" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg" group-title="GO WATCH", Coco
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://j.pollllop.com/_v11/0c3fc59d62c1cba7a91d062e66df13ca26f5d7f3be8c9a048e5e8f63e9bf7d09ee40b14d62fec63436aed2339736dc5172c360de33f7e8619b1f6bdc976c11661eb6db0cdfc84fa596f29bb2a52de8d2e0828bb0b0894d2408438c4e7823d9d7b21c8e487a7c546e7d61d09a8f8c19db5f47bb7680ec8e59240616bfe0ba907045f0fae632a91260be1a5955564a991c/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
