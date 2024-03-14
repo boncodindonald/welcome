@@ -255,3 +255,15 @@ https://s.pollllop.com/_v11/9a71c2815391abecebdc959404df9cd060ae4c710c5f27ebc10f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://n.pollllop.com/_v11/bd0c135a08c9626f7dfb65920c167adc42043e9d19467b21899fa0a1889e41f954d80d3793f1a763c8ccbaa2d2a5000b2781d2629addba44430f03c7cbde88d943c735325d7b20c1835c5bc39e376a32212b1559446c8188c9fd4e1ad6cc87f5b36ebd94a83e4428e07b0b56e6f5beda675883902bd7098e636a7e06cd40ffd3f2f91583fa04c654e60cbc3f68d677ab/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Iron Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg" group-title="GO WATCH", Iron Man
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://o.pollllop.com/_v11/04f4df7775c239ea2527d6b8e537f476d8932a202ec6734ecc8f68331af0698af1a1f05cebecbbd1bd2e73a886679d38d9ef5aa8deeb24bd460b2f6c99daa5c858474f543031bc1e710f75f1ed11cb9a8d06a3352810f1cb64e3116923bc30771d8f5bc877e9fa0b005180f204b542801e2973fb4e4848378fe226b02a35944b6b9dc06647c8915f0daa3e036d535dfb/720/index.m3u8
+
+#EXTINF:-1 tvg-name="The Incredible Hulk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg" group-title="GO WATCH", The Incredible Hulk
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://f.pollllop.com/_v11/89cb46d3a2f18d7f157e7ee1e1c0f982270eecd68444ae93e490349419957bc1d03674857d1a8e998a08e1b6b6dab706488b2a326b7c30dc895040699d696ef148b6c80341b24d2d7fd10c0bb2afd53b58991b35cad5b72f86bd3670b8e97a279a434316657589159eca1afb157d08aaf5d687c1e52a692c84cc821154bd46cfd66e06d51d53272241681568c7903846/720/index.m3u8
