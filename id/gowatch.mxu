@@ -610,15 +610,17 @@ https://v.pollllop.com/_v11/b6171ce2e19042ef5bdf624e5d75204ee5711e8e341d48573cec
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://g.pollllop.com/_v11/f0a6a2b93a16074d8041b07754ce5793f255d0ad3b6bbc5a1a9b47cb3e7e0f27676a197522919bb0e994fc542f3c5ae5cdc33bbbd6cdd8b58d8200b2fe0c7f6e48bd9a6435ee52e9933cecd05c4eb8d3388e016181e4255286de602921a5783aa53cb58859f79596ea066eeec5682ac108dda761ad94d4e6c78a3dbe5efc9e31aad87b5279030f0d27c6115f62c93d00/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Ralph Breaks the Internet" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_.jpg" group-title="GO WATCH", Ralph Breaks the Internet
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://r.pollllop.com/_v11/61562b402cee65afa153a326e7ce5136d747c2b3a15e29b6a51dd414d448bd42f99a1ebec3052b4080be5ecea4de1dbc215cc0b26d77a34973b2e95f0bc3fdc0f1892a7739d4d785b9703dadaf2daa9fc1a4243e79f325a266c171e6953091d8fd9ac52f802cf46ee3a33e61866c681ebdc5f3cca68f620fba681a58db81553a5ddaa5ece2a579931a6376cf9e087ba3/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Incredibles 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg" group-title="GO WATCH", Incredibles 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://l.pollllop.com/_v11/bb046100ee2643a857f2f7ad5089e056cb1055d80d0b6af6302781b85db226d05fc777e23e304fb9972aa18b81d4617e84c0bd4d62ff8b3b26877ffecbaad447009c08cc7ff30ab5807e22f77ad3356ec6fecd9928de1746eacfbb39da7572b8cfae68aa0b7f8d3e3caaabd12bcd9f41c30aa169d756c53e700fc06783f0a66cb7549fcc130c7f0cb7264cbaf20f33ef/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
