@@ -100,49 +100,49 @@ http://jp.vthanhnetwork.com/MTV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 1: Aang" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 1: Aang
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 1: Aang" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 1: Aang
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://l.pollllop.com/_v11/91486417b8ad0d5b4257d9b1cc8150a31fcbcade24e95acbe1962017723401c8e83aed9a4be3a0daf1d136affdc1509cf97e44e06bd26fffec40d436928c88efe33f10ab51ef6c733c46bdabfd00cf54374e9b5c8c10d0a9ef4d8da915e9c05a09c957b9a5f0e3c9392212a8d61e6e6b731f77a0f1a2f38b28f7acf1f7b51bf29c232f752630d03b189242325a986cb6/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 2: Warriors" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 2: Warriors
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 2: Warriors" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 2: Warriors
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://s.pollllop.com/_v11/d50325ec423d5760b393d99f99b0e96ebbee447d33b61f69e024a5269e663eb31fe74ed2541fd1a8a06eb0b518012f6b685460d666f943c527650bf5071e69cac24acbce46fd1314cb117f1a568d9c8f1be1c142976e04d143d313c2bbb0fce0b8f6b134d43414a52149b618d61614c88696e76cc557932cc84412343d8ef85ec8df0cde6f8622052cd087acdbef136f/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 3: Omashu" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 3: Omashu
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 3: Omashu" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 3: Omashu
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://v.pollllop.com/_v11/582548da7a67bd6e9d6e8c8ca09825a520aa70f105c385155a00fdce3b01e56d4986dc0ceb060a1cd7115663a562307645fbd078de1fa41f320bc38e0fe80f7026041088abf8d77ebde4b6db0f5c2f726c8f1a2bba192c11ee9dc0b674f1afe1e45d014cdd27a7781c460059c1f194df174b590caa4eab7539c17d2f6c3555b3f75ab1dcd9006cd3ed456b90a241b585/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 4: Into the Dark" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 4: Into the Dark
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 4: Into the Dark" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 4: Into the Dark
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://s.pollllop.com/_v11/3740b67f6ad6d8aea7b3352f46f8977dbc21f65c0d24e0888a0d53075b0adccc72b87790a09ab4b2f6bc2a8d62a0e793facfa09a5bcf64971cc589dfc56bc0083454a22475c15ac32c48cd8d04fb931bee4a67be99be5f65355a09aff8b1b046ef0d7246ce9d2cdb7d52c23b6e50247f3640071b6e1cd0d64ef64476f08e74eaddee2b05a0eb1a41e6ba0f4e00ba8d67/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 5: Spirited Away" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 5: Spirited Away
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 5: Spirited Away" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 5: Spirited Away
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://g.pollllop.com/_v11/874263a9ec47610ec4dfed209519866f4fcd2e3cbf82228f7051f57e0dcbf70b3220137194df592eeff6f8f877b727ab83efd5974b5c3557e812abe2b0696eb4dc7e8514f30af56f4df8af97997ee889a813e50c3b89bd2b9912028dc08d3f0536c18ee0e06128415d4a12a58172f26d8b6eb56f50f2e326f1eee6bbd1103bb2dc605b438a7fbb307544c90bff47ed58/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 6: Masks" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 6: Masks
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 6: Masks" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 6: Masks
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://f.pollllop.com/_v11/c51dc7f38a4d22c26bac5ce3f36dd25bf913eb5f6ff2af587eb3def0fc7dd68d2feb18b172cd8e88cfe311a459849fc21324b9fb372283658a42adf229dbd7a2f347ed72e53563048c9e0d47ee02bb58d52ab764656c19a686dbc941dba5890085dd6213fd7b5278b3b56cfd3e8305d4ee42734170cd6e143466d251a7a30e2ec7fec73dfe115c55e6519ad62ba1fa9d/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 7: The North" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 7: The North
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 7: The North" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 7: The North
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://o.pollllop.com/_v11/e7a7d8b4691c2f760368ccf63c2010039324b186be28d2eb3385fbbbcf706dd9e24d0e052b77d1f96d7183b232d123f37344a53d3831055ff1c7271845580e8de65cf430e59fc99fb65eff855f46052b2dbcc62ce35358667d4f4c5ccc0d16aca33e4a21114a2c1bb1de9a603ecca63c4087f9c4e3cb2a6fcd52890f6e5886abe8aa5922b8c600259796fbc16390614f/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Avatar: The Last Airbender Episode 8: Legends" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Episode 8: Legends
+#EXTINF:-1 tvg-name="Avatar: The Last Airbender Season 1 Episode 8: Legends" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="GO WATCH", Avatar: The Last Airbender Season 1 Episode 8: Legends
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
