@@ -424,17 +424,32 @@ https://u.pollllop.com/_v11/f7bfe9b783771cf200cbe3585fed8e450436a88260718c82e0a8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://j.pollllop.com/_v11/8ab2969d7714e71f158f067af793849cef65600be04d2685b87d123934a692a7977f6fd24d1963cf2f2d7e3a3edb48104d5c38bfff3cf21505aafafb66cb4d22176f651471bdfc5b817c4d6ed7ff0c65ba953e06f17a6afe320a5a5143dbae5632abeab940b0251ac66663ba2ecd11ef08a812d4d9b737d7042ec996a08facde9b9ecbf9ca23e0365e37cca652c8d541/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Thor: Love and Thunder" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="GO WATCH", Thor: Love and Thunder
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://y.pollllop.com/_v11/6e3f22a58bbafdcca9534d0aa9d3400d7320bffaf23f4a59d3b8f957ec51bb086814ed8d4d76d55cad4ebe5c50f9d3defc9bbaa4e508cf35b57805a23335578184409a0a0ce8fed70960faf61bf1a86a2921f156418298a4774818963958cb961cf51df562ff2c3f0119f4e1fbf1ab102949457ca9e4668510dbcc8dd06914b9977aae045174176da24e4e4d428e6e01/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Black Panther: Wakanda Forever" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="GO WATCH", Black Panther: Wakanda Forever
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://v.pollllop.com/_v11/79d16e9e20f2d6df3bafa3a3add473fc224e42b0add01e430d1e4952b662d6d39748930896b677647c67e7e0e5eca854f694f149d68e434ce4a02fdde351274278b8c39924c43fb669955028833f94e7158deced76ff8f6cb6baed5d606fea29ce9a32c5e675e6f5e07355918a79193ae9427cf01f0f778f198447db798c47d0c30fe42a4989322064830d2ac67893be/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Ant-Man and The Wasp: Quantumania" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg" group-title="GO WATCH", Ant-Man and The Wasp: Quantumania
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://i.pollllop.com/_v11/3d0f8370761d0b460d85960eb3e75f90337d97ac9ab4ce02f9432370731d4bc35485f1c1bd3a8407cb3e255643457023659494b67c51248e3afa9ba5b30d2527533143e85a411cfa92976343d1b4bc289d287724628632c147ca771f119ae0007d183679683584a8dfe772b5928c1e09c3b0f5e3e8bb1a29765be74c8cfe002e8575f227ed08144a8220b48fcaf0dd36/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Guardians of the Galaxy Vol. 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="GO WATCH", Guardians of the Galaxy Vol. 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://z.pollllop.com/_v11/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc600252310f5c39a7d764c6ff9b85ce7298c8bd0edd006b607c23610219974cc9859/720/index.m3u8
+
+#EXTINF:-1 tvg-name="The Marvels" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="GO WATCH", The Marvels
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://i.pollllop.com/_v11/aea29ee02a3f872a8e102a2e65cfc86d3f2475019d2c69fcd8361097a582ad6ab057eb94a888b78d7a7be820329039d2530991d567d725002474189d02deaecab5255bbe7492c7b3d8f192b4c13cf4f144f53958e8a62a55f5c2c5dbdbf4e0f46d4ced83e6a618a0575a5b4184c60bf843dd1e30ad97147bb0fa93dc8a441c929e669ea3ad3981b7e049d2a070e05a50/720/index.m3u8
