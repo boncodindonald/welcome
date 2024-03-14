@@ -574,6 +574,28 @@ https://h.pollllop.com/_v11/42e3151e1eee1655d6a0d899fb37173980280912a07e98041269
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://t.pollllop.com/_v11/fc9dfab070c4c8e7eb980a55a1a0e93a98a4f55c9604a0dc49c38e769e30a5a5adad1ae5aa71fffb601d56e5c56a17b6138cd35f8a1d90e63b59c39db19c01f20ce82371f1638eaec103cb9bc5033e1600cd5d8854cf0e512e8d77bff796d6af5eb6984d22da52ee3f7f25ac0313455fc3c75890588635233e30632da78c21bf5034a261a0e34f014ea4bc2bd84ab1cc/720/index.m3u8
 
+#EXTINF:-1 tvg-name="Raya and the Last Dragon" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="GO WATCH", Raya and the Last Dragon
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://x.pollllop.com/_v11/9c5133218062a3b4208605dff0c7b5a9606116cb2effb4cbbacad5e27acd94da381db13bb177298a4e12790ed844128e0b5987888a0125b23b8108d9b707f25cee4b66eef9972b808e9d7fb3874430aaea0a21807bb835dfd96def0f6e24382110c8dce66cf91c0c5fcae1a81f8395421ab4ed64ff9b18e512a9b0822e4dcdff4468ce3845ab444c64ae0c9382279d83/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Soul" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_.jpg" group-title="GO WATCH", Soul
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://z.pollllop.com/_v11/b05f9166a474983dfaab6242796788bbcfd89f17d7dfafe32e7f923fe08b04a993144d57cd5472ac90f5308ac5f167368fa0b77a63016f21ba8d8f18b8ec2ce60492f8f20e58cd59f94619c842598f84d5b004672f64247e685f81d29e8defd1be6075743a6fa7c3194f0631978dfb151ab3db247139cbb15149921b05e22f760451fbcc68aaacf682097c1c45d2b33f/720/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -588,4 +610,3 @@ https://t.pollllop.com/_v11/fc9dfab070c4c8e7eb980a55a1a0e93a98a4f55c9604a0dc49c3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-
