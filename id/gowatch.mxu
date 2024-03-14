@@ -592,10 +592,11 @@ https://z.pollllop.com/_v11/b05f9166a474983dfaab6242796788bbcfd89f17d7dfafe32e7f
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://j.pollllop.com/_v11/f377f1196ccc2334daf350cf4281fb165efbcb4553023ca6139de0ce0d598ce4ba2a85255eec91cc389e7ae81872b10db18e3203066d9a423735bf00b0fad5179a3e0117207636bdfecf2980f3096a5a37823cc9d54f31f9ce242b8ecceee091714d1bc5a724cb13180db5df1e94fb3c4ecb2f74d1370e2a2757dcb0f631ea197422d739a1ab373c133f3b56feb284e7/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Spies in Disguise" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg" group-title="GO WATCH", Spies in Disguise
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://m.pollllop.com/_v11/0cfe7b28dbf3d5892c082a8bfeac86ca543df831f063c0ee76b6faad03b8dc64ff450adfee7c3ca37cf513b704016218c47552236ee5cf55ae2e9869295a07f62a8dd9878397116fb6d895a39940dbec7a0f1753f1fa9dcc3e92b94647bd86e77fd6f6e0bc6d420135f2592a60fdd15125e0e62a778d1b23a335d4eb25a6cc505e02e38afa9abef6b57673ee00154ede/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
