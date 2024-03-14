@@ -598,10 +598,11 @@ https://j.pollllop.com/_v11/f377f1196ccc2334daf350cf4281fb165efbcb4553023ca6139d
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://m.pollllop.com/_v11/0cfe7b28dbf3d5892c082a8bfeac86ca543df831f063c0ee76b6faad03b8dc64ff450adfee7c3ca37cf513b704016218c47552236ee5cf55ae2e9869295a07f62a8dd9878397116fb6d895a39940dbec7a0f1753f1fa9dcc3e92b94647bd86e77fd6f6e0bc6d420135f2592a60fdd15125e0e62a778d1b23a335d4eb25a6cc505e02e38afa9abef6b57673ee00154ede/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Frozen II" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg" group-title="GO WATCH", Frozen II
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://v.pollllop.com/_v11/b6171ce2e19042ef5bdf624e5d75204ee5711e8e341d48573cec2ff5cc0cfa4b32fe1f39c6921a9cbf531be2c341413adc56e27d7394e0698e4907937ed38995ea27e162cbcb147f6d1fdaeba64b41662d011c827243fda579733a7d431a1a1181f107d57fecd6c36c6612f621ad02b32933e6d86fddd8549f6de97c7fb8ade0fe5368cce8117981ccd5c868871ea92e/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
