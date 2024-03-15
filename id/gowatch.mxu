@@ -778,12 +778,6 @@ https://m.pollllop.com/_v11/a66fb76e55bd66527f6c49ae83967a318f5c90b9f94fadf24f19
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://k.pollllop.com/_v11/1e02490b95240365066b5ab721e8b40e1122df76db5e265d8e136868b2003facb3a8395e652e8bad1c200757fe225e03e319c09631567465df6f3454bfa2ab051ab10b011b36186f5e8f5ed6e3d2c5dc8340a489d5b01dac45218e8e439a304459f1af018c81008478b5a209300ed65ea1dcf83530d6ca3f680d284f981bd3fa240aae4f456992530c49c767210f8dc5/720/index.m3u8
 
-#EXTINF:-1 tvg-name="Tales from Earthsea" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFlN2FhYTktZGYzNi00MzllLWFlOTAtY2ExNjRjZjhkZWM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="GO WATCH", Tales from Earthsea
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://y.pollllop.com/_v11/a5839f7d1dfd159e4e0ff26374c622aeeb7b71ee70e0885809ee42f7ef7d0bfdb8982aa6f4f52e475bacd8fefb9ef4f299f93038324be5142735358db60b1b7beed15d81d478722c8a4ce88c75c2ac37d03277e643cd0d7fef125a78cb755b903e8c1710258adf4c81aa3f4602a484016b583a6d32c8bec3fa3e12ac508a47bd48644f98ac521ad04af9c280ccd2b753/720/index.m3u8
-
 #EXTINF:-1 tvg-name="Toy Story 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg" group-title="GO WATCH", Toy Story 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
