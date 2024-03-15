@@ -652,20 +652,23 @@ https://z.pollllop.com/_v11/7db2184c4bcfbd333a4f0df52d6f8d26bcad58a7ec3637c84a1a
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://y.pollllop.com/_v11/3abea4a6c98fc1c5b7448cb0dc6fa9e32e8118db822344097a02f35055180acedf5649a364be9a5bd09020a4970da6992bdcd631860c533e1b629d8da3acf682d96d6737758ef4cd6929abee442fa8902a45996541fbeb755d5343786bfe72bc3159948d4eeac56d33e57a7973b5f1163702aa184fcec8fa2ca83943d49366c8ea8d9398bf85554daf4a525f8d4dc71f/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="The Good Dinosaur" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_.jpg" group-title="GO WATCH", The Good Dinosaur
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://g.pollllop.com/_v11/44db1ec9cf6f7ac3e586679da8c6674b37e44ec9d1a98c50521b4b9e0624ffa6d49427a594b92d9272e1827862b03c3d65dbaa181851a7ff0ba332195ec85a7e41e5979ce3b417fb343ad18abd357f4370d8d9311630dfac9feb1d22ea835f9aeab4026b8db1199534662759e7b51a0ecfbed17d11d432a3a1cb4229bf8f7c24dcf4cf5321ea704dc7eca4eb543d66e9/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Inside Out" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg" group-title="GO WATCH", Inside Out
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://f.pollllop.com/_v11/4f0019865c56b6606d1369d845d80e955a54484dd2191914b5a96ac5cc0a444cd8453420405aa1f50507fac7e6d85b45516641a12286d2b0ec38437ece9f34293a63d72e7f95ede244d7f53319c525b8e4aa246fcfd1a149dee38e0946eeec977a908ff25e14186dbf1b58a176a02073f5874d44f2847fb730e5e0edabb4990c31d236a028c5c8a55201bd307c619dc7/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Tinker Bell and the Legend of the NeverBeast" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyMTc4NDc2N15BMl5BanBnXkFtZTgwMDk3MTEwNzE@._V1_.jpg" group-title="GO WATCH", Tinker Bell and the Legend of the NeverBeast
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://k.pollllop.com/_v11/21708e5b86784eb00429bfdf6bae08c2e4f34cd284103c3a1c086eba1546de29cf81361af5ce2ab0477c05d6f3e340f83d600e480e8d6bcc9d03e5235af45a6beb3ea0b71a7bc69ac08f0e6761378099124d193bf2167988bb5e70871008a894c1cd97ea6433ac30b6309fd57c8ecdadf230b164e79df015937d944bd92e6cc0aba9b0ca1bb850cf8cd4fb44e4430df4/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
