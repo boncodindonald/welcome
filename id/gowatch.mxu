@@ -886,10 +886,11 @@ https://j.pollllop.com/_v11/7ab1a63bc2613817a91405a1e74edf0e1c13e1835ec906d168b9
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://u.pollllop.com/_v11/2ace03a4030ba21002362fce19ca8faf537ec839f6b58d2311276ffb08c70145e3f2508c4c6055a9ca52d258dd1422ed3e08c760b71cbbe3485228b5192ce36eff422f3bf07901fc52ba55292cc79dcede4464e2cc96c16273d2e7308bcb1253edf2ab2084fbe3473739251fd12c91e40f983909edccc3f3d204b204ca69d4289a32e0875c7207138a5980f5caadb3d5/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1_.jpg" group-title="GO WATCH", Bolt
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://f.pollllop.com/_v11/f2fa881f54ac65ff0cf660c7938929b79dcbf05882d88f060f232c4ecde648f84b7861d840e6b0356ac1d6c154223127f37cd8b13ec3ce764642ff989ff148324acb2bdb8f091c14b7781781daf84fd2f8debe9b20e8a49b45336edcb9dc3aa29fcb7f6ca2b92ed2f924deb58c6b1610744397016c50ed089075bd900f7ce87734fa63f5ffb7375d9d647cb361aa49ee/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
