@@ -466,6 +466,12 @@ https://k.pollllop.com/_v11/603fefb73858d7cae6b267fb433068ed56b6db655f7996750e85
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://n.pollllop.com/_v11/838779b576e7df102cbe23f4aa63ca2a75146fa8ec7d1a021f00d79c4dba5b28a26dba87c383bbdf0d4a91d5aa63702484310ddd91774d12f7d655a2ce5a68057bccd6dd4d7d06000766db01473aff0569fca430ba13d01e0210c2e72ba9b6bd4a5df10564a15beaab3b55a45790e268007112dbb2465f3c4db86c10086f359754906293e84febb30b33a2abf996843c/720/index.m3u8
 
+#EXTINF:-1 tvg-name="Spider-Man 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="GO WATCH", Spider-Man 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://t.pollllop.com/_v11/a5806e185879512778a71a0b50e697f74f5c89ec9197fe0b365d15d23b4064d942260ae7210ffa63f76a7c42c9163aa8fbe7615435725f777367f941d5f962897ffbada87f1b31c365fb377a4b668e8aacbd40c6fb1ccc27917153ad3d7d5f38b3fc9f9e8ad59908b2173164868671e17c7676118ead8d3d36707275724e487661e73be526029be055cdd9cc26e2671f/720/index.m3u8
+
 #EXTINF:-1 tvg-name="The Amazing Spider-Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg" group-title="GO WATCH", The Amazing Spider-Man
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
