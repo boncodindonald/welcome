@@ -1000,10 +1000,11 @@ https://r.pollllop.com/_v11/daf134207b837195cc9c81f0255df7186c997143ecfcfd6bf914
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://j.pollllop.com/_v11/7bb1a23e80014a1258c0fc9679bd9f7a7cb171da5ad23722d0cae761fe38423adea2d29f4290f4166247da79e9b14231e9fbe9d2450cb9cf16a74093b0a68023ad796f045f473588a7dfb1b3841d6cb206c3ae02b0636c6968c82493766b502d7a49ce27ac3282e7f59fbfcc921c28a8966dad0a880dc66176ae805e85d6f3a1b885a9f5606cbe971a7b4e2860102155/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="test" tvg-logo="" group-title="GO WATCH", test
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://salamus2023.onlinehdhls.ru/ddh1/premium51/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
