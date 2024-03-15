@@ -700,12 +700,6 @@ https://r.pollllop.com/_v11/47d65286c66de1b3cf4e7519bbaff3edfea995abc4f13ff4ea04
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://x.pollllop.com/_v11/9943b18721c5eeaf210a20aec41d3a17479bd5411cdf0e5cde3c773154b7a038a50275e889af721faa3ddb7aeeee93c6cc77b932bff1e8cc1eeb1c2e6544b118c57c31f1a201762eb6428b7f0e0645da4be02ace538bb893bc380fd954186ec743bdfcc220b80a25ce3de341783db97b63c906ab35bb0cdbcd965621bdbaba8a85f5d440d4f60cfa48551daae018c742/720/index.m3u8
 
-#EXTINF:-1 tvg-name="The Wind Rises" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_.jpg" group-title="GO WATCH", The Wind Rises
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://o.pollllop.com/_v11/9298657d6b1ffae5e4745ab8796609ec87e74325f0850e756f310598ed9e09ab9c53da7a27ffc29bbea4224a950366bb09869dd9f901b8410188043446b47c82306062f56a12919b79d0b0ff97048f766d74b0c38992c4f0acdde3eb7472a352cc5b1ab758f12b99a1c60554952f64524d9ca0bd3c8f3952441ab4c7dab18f11/720/index.m3u8
-
 #EXTINF:-1 tvg-name="The Pirate Fairy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxNTNkYzktYThjYS00MTE5LTlmOTctODZhMmMxYTQxZDFhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg" group-title="GO WATCH", The Pirate Fairy
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
