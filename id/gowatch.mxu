@@ -712,6 +712,57 @@ https://v.pollllop.com/_v11/5a86b21901cd413e3a1e4e80c6407a2d0d4be0f1ae0022c44075
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://o.pollllop.com/_v11/22826e6925a34c96afef799548cd3bfb848bf0355680d953199f116b57ff50a184d6f6f944df8f6675cfa6d75df4cdba48ea284ac61b5d3653550b9693f69fc4c4f19e931a1a5cd77a8028fcf36f2b8686052812cd059f923bb4096c01151834fc4834d53609920f60547eef8f5188d896176b02b83ff32bf19e738a923a815b7dab7186c7f8686ddc18a61d336821f2/720/index.m3u8
 
+#EXTINF:-1 tvg-name="Monsters University" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg" group-title="GO WATCH", Monsters University
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://p.pollllop.com/_v11/06dedfb58e88fed2a5d8f348d1854641867ca59ece8078f83eb65eccc27a33669756acd7b2f7f2f05468d010c52f18c351e112a916e5de7f423e1373397ac1916b76a052f97b40a69c2e73b71745d0786102e278dc02e6a8c85c7e51bd2091c4646216c8c06f735b21c5e107aad27258c68ac7e5804548342fbc59aa2c601cf40074da95982b59559108a46d6b88e1e1/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Wreck-It Ralph" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_.jpg" group-title="GO WATCH", Wreck-It Ralph
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://m.pollllop.com/_v11/96c8814d7111af8525e9bf9a50d30f54434827b61a4bd57f1fdc46dfbc96089ae5ae5cf6ce52dbec303a8ed3d0b4a5f29e91daeb509f2ab663b4eac209f992ede0965cd2415399e2203eeb09e381c13f59d7997a0aeef5c1b8fcd79e796126fc6b839390387f4c7ac6de5434e9aef4fe7ccaba1bc920ec10f6c2505cfddd3932bc350902789335fb3fbef8e35c41ad69/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Frankenweenie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxODY3MjEwNV5BMl5BanBnXkFtZTcwOTMzNjc4Nw@@._V1_.jpg" group-title="GO WATCH", Frankenweenie
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://z.pollllop.com/_v11/a30442c69a0f5dda0a0c4769e18187ff771c42c28da2cc4b280024ee418b4b8f3d566ce0c325ef1eeea71af9121100458018babb8c6f74b716498ecf0a258b04cf072342059c7d1bb0855eb3db09a00cb7fc3d164d33e056aea71caae95c00f0ce8723b6855f665ddcdc8c1ee573d0eb320b3cf2afaa6ba2313aa185fd4763276df2b4cbfdc054c4a8e9439363573864/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Secret of the Wings" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUwYTI2MmUtZGU4Mi00M2FlLWI1MTItMWY2NWQ3Mzc5N2E4XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg" group-title="GO WATCH", Secret of the Wings
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://p.pollllop.com/_v11/853968b598e5cabb9db2d7b041c33a1095d0db61e3f2161656e65927b1d3acd128910b2d243980adb40965581e700a1ffbd0a112f687541e15246e90fe491c3267eaba9ba95febbc8ee4d15ef3b0c9a892fa91c2a9bad0322a927571996409cdf7e0cc520de820736418ae4ae81e3a2b02f09ce47ad5516901c400cf4362e4bad60b39928d2daaf3c522b16aed6960e0/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Brave" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_.jpg" group-title="GO WATCH", Brave
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://u.pollllop.com/_v11/8bbba9b7c884c469fc8f6ca1deb962ab00324c3ad1306e3e0b03dbf8e64fdc27210a8f3b56456901463758236205d1c282d94aaa29283b8b11310ee18566cb4c305191eee9b84e731e78739edf9683cee608e125a7b0fa9dab519e5ae6a501ce6a759ed92e6eebe092eb016111cdd40c88c05d0eeccc17fe7dfd51e6f79b3773b1abc6a23877791fb14f7cd86a395c49/720/index.m3u8
+
+#EXTINF:-1 tvg-name="The Secret World of Arrietty" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="GO WATCH", The Secret World of Arrietty
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://q.pollllop.com/_v11/769132dbc16f73454fbd2871a1a2fe0da780966f41754b28c43e511f31db8782d93e95f29500389978cb5cd1b6558a9778571557188fe552e0353d52c7674e2d2fa0cce2d5d4573b1657ccc57a276a807881e076d24dbdfc5f4385e9b0ba00f26c8d88befb7d1d013de10348c01cd24d6f27491306f1482bfd932535bd03ad41588dc7596642e953d969e569fde76efc/720/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
