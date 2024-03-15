@@ -682,6 +682,41 @@ https://k.pollllop.com/_v11/f51510e939458275b48f7e705aec4aa327b700b1bbe695e43f71
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://r.pollllop.com/_v11/47d65286c66de1b3cf4e7519bbaff3edfea995abc4f13ff4ea04790e9fb41bd2fb057e6fc93671d0c2ab3316c70216913dcbaabd8d9a0e9e25a5e8d9214700eee77c2c68ef9f06507f2b4f49a0dd851971c73b2ada01f3f968f4212c0b9a1291c00ecd22744cec09b8fb785c55e4a71d9a1ed0d50a19cf7a37dac8060a071a2a32fdbc8ccdc7f881df98104190cc9499/720/index.m3u8
 
+#EXTINF:-1 tvg-name="Planes: Fire & Rescue" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMjY4NDM4OF5BMl5BanBnXkFtZTgwMDIxNDU2MTE@._V1_.jpg" group-title="GO WATCH", Planes: Fire & Rescue
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://x.pollllop.com/_v11/9943b18721c5eeaf210a20aec41d3a17479bd5411cdf0e5cde3c773154b7a038a50275e889af721faa3ddb7aeeee93c6cc77b932bff1e8cc1eeb1c2e6544b118c57c31f1a201762eb6428b7f0e0645da4be02ace538bb893bc380fd954186ec743bdfcc220b80a25ce3de341783db97b63c906ab35bb0cdbcd965621bdbaba8a85f5d440d4f60cfa48551daae018c742/720/index.m3u8
+
+#EXTINF:-1 tvg-name="The Wind Rises" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_.jpg" group-title="GO WATCH", The Wind Rises
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://o.pollllop.com/_v11/9298657d6b1ffae5e4745ab8796609ec87e74325f0850e756f310598ed9e09ab9c53da7a27ffc29bbea4224a950366bb09869dd9f901b8410188043446b47c82306062f56a12919b79d0b0ff97048f766d74b0c38992c4f0acdde3eb7472a352cc5b1ab758f12b99a1c60554952f64524d9ca0bd3c8f3952441ab4c7dab18f11/720/index.m3u8
+
+#EXTINF:-1 tvg-name="The Pirate Fairy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxNTNkYzktYThjYS00MTE5LTlmOTctODZhMmMxYTQxZDFhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg" group-title="GO WATCH", The Pirate Fairy
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://y.pollllop.com/_v11/90a77af45c56f973634925502ffdc08291d5d013bd8e2a09a2ca27b9b2a220f3e008f7efed6fdfbfb5badf94322727f0cfa9b9aa1d6b213b022ca408807619079c55bae0a5e5e48f00e07ac38a45ac1a26108c890a034cfe4b2dddf411f133fe95d11432caf3c1adbc3d1671ef35df4ee0c6cbd0795603c9cf697e3fd7e4475cffab9a9f9b76d863cbfce54e348a834e/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Frozen" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_.jpg" group-title="GO WATCH", Frozen
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://v.pollllop.com/_v11/5a86b21901cd413e3a1e4e80c6407a2d0d4be0f1ae0022c440755bcdc2cd3c491203bc86a67cef31a369ca83e8b5f58f91836828f8d4d004bf452b5a7e3e9a6a974d70c69147d7935d8a7a34d1de0cfe6bb126cff7d050de790d84aacc9b1e244fff50e1054730b186e41e1518653f6284cab3a35308c675594009f4d04ab3a5ec78ebb0cbf1dc6bbc7f7a277682f967/720/index.m3u8
+
+#EXTINF:-1 tvg-name="Planes" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwODc5NzYzOF5BMl5BanBnXkFtZTcwNTk4MjEzOQ@@._V1_.jpg" group-title="GO WATCH", Planes
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://o.pollllop.com/_v11/22826e6925a34c96afef799548cd3bfb848bf0355680d953199f116b57ff50a184d6f6f944df8f6675cfa6d75df4cdba48ea284ac61b5d3653550b9693f69fc4c4f19e931a1a5cd77a8028fcf36f2b8686052812cd059f923bb4096c01151834fc4834d53609920f60547eef8f5188d896176b02b83ff32bf19e738a923a815b7dab7186c7f8686ddc18a61d336821f2/720/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
