@@ -478,6 +478,12 @@ https://t.pollllop.com/_v11/a5806e185879512778a71a0b50e697f74f5c89ec9197fe0b365d
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://i.pollllop.com/_v11/f41a93875c03a3a114de7ac7fff8391c1530ce0b4b9fff8ab394c48be586abebd1153f4caaab2b1363e3311cb2c5b622bd367e6de2e1be8f97eec80da743a8498f121bd85cfe6447c3f40cbb30c9b38c59ae13b23b7b4342a62b89910755b9fc8bb0a568865dbb89c06bfa9798ce8025e8d8db4db750b00b7d8892a2ad8229cb4b8dee9f1b61b59b09826db6557906a1/720/index.m3u8
 
+#EXTINF:-1 tvg-name="The Amazing Spider-Man 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg" group-title="GO WATCH", The Amazing Spider-Man 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://h.pollllop.com/_v11/0ca748ddb75eec6cf6bfdb90dbcd4b276416d14d56f96c32b02b174c6ee176783a1595e2ece082f769b4b40d5a341521493cf5b47f1efcbcd7cdea2012133246eac154028033a21622a453eb13bb8a116717738d0997407e1b5a77db380290a2f9c9cb5865d681ff936377bd376b926180b0c3bc4e48fd2ccec416fc70ad45aa5b7bb7fb187d1dea45aa0781a4f2761e/720/index.m3u8
+
 #EXTINF:-1 tvg-name="X-Men: Days of Future Past" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg" group-title="GO WATCH", X-Men: Days of Future Past
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
