@@ -1191,11 +1191,10 @@ https://q.pollllop.com/_v11/6fde1a3d7d0239026177f34a1b483890dc2e36e8dd6a2aeb6989
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="PBA" tvg-logo="https://qp-pldt-image-resizer-cloud-stag.akamaized.net/image/E55C7590-C9E1-11EC-9D64-0242AC120005/0-1x1.jpg" group-title="GO WATCH", PBA
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.cignal-stag.firstlight.ai/getlicense?service=cignal&version=1.0&kid=D8614996-1F27-11EE-BE56-0242AC120002&ptoken=eyJjb250ZW50SWQiOiJEODYxNDk5Ni0xRjI3LTExRUUtQkU1Ni0wMjQyQUMxMjAwMDIiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTcxMDY0NzkyNzEyOCwiZW50aXRsZWRDb250ZW50SWRzIjoiUkRnMk1UUTVPVFl0TVVZeU55MHhNVVZGTFVKRk5UWXRNREkwTWtGRE1USXdNREF5IiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiMmU4ODc4NmUwYmUzMjBlMjM4ZDYwZTEzNmZjZGMyZGI3YjFhZGEyMjIxY2NiMTI2ZjBlOTI1MjQ3ZjJmMjA4MyIsInVuaXF1ZUlkIjoiOWYyZTdjNjMtMTUyNS00NjJjLWE1ZGItZmEwNzc0NTM4OGQ1IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTcxMDYwNDc4NzEyOCwiY3JlYXRlZFRpbWUiOjE3MTA2MDQ3MjcxMjgsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
-https://pldt-live-grp-12.quickplay.com/out/u/stag_nkl_japan.mpd
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
