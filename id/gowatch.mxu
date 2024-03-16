@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-name="GMA Pinoy TV" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/1wun5AQ36ar7vLwql1xmUA.jpg" group-title="GO WATCH", GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/license?itemID=1HUWE6ijsNGaWR7KPB6moA&kid=4b66176b-0f07-48e3-8c6d-b27263f6f1a1
+https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd?utm_source=kc&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+
 #EXTINF:-1 tvg-name="Knowledge Channel" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/OYQXkSL-nTUVrbvLBHLhpg.jpg"" group-title="GO WATCH", Knowledge Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
