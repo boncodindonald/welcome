@@ -1204,10 +1204,11 @@ https://k.pollllop.com/_v11/5a8dc2078a782051edbd163ab1f0d1ac4a57c1c579fd4bab1a78
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://s.pollllop.com/_v11/247db939d9f2b36876e11b7d24ef936c3b2d53ed1a05b4cd336185303b480d45f588f7d6e7fd9d6e7150e9ad885fa512695a6b8bad2a971b7df869160e4eb38ef73b0a137a020867c4dd74c8e3a74741024488a3103ac47a6604fea81f428adbaedc4157b979d5f56628fb036df547ca6a9dc31a988f6891859172abee418cf871d10e95fd220c2018a0d243db7c8f0f/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Orion and the Dark" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyODExOTctY2E3My00M2U5LWI2OGItNzRlZDk1OWJmOWQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="GO WATCH", Orion and the Dark
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://s.pollllop.com/_v11/9efa8a8d602507fedfca0c21b22ec8b86752cdf135925dd96bfda6839ab3b83166526926f674607dc71eb013e782cbd98ff1950a96289034d628afb501c60058dd6d0e48473e9383f01e41f71bf242c92b992bd34f3b36b1c65d4ffd47b30b0a18acaca79615df7ef7948e869362f29335cc50a2df5765a320b8b13aed8b0982be3f0fce48e62e7a9db971fcf3689a26/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
