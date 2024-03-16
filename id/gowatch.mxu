@@ -1198,10 +1198,11 @@ https://q.pollllop.com/_v11/ede40f1b63c7c9ab17d0d95eb0b3fd3f8823718609cf7b4501e8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://k.pollllop.com/_v11/5a8dc2078a782051edbd163ab1f0d1ac4a57c1c579fd4bab1a78d2016c36602cb871fd500e5ff36fc5c32656f610c984ed1d953ba16e997cd72833f870114e8feb137f2c7adeb018d781c5faa3628e2639c66625b03289fc5a3f98cbfbd86e28ad81bb8c9a71eb18929196f89d0e9554e964b4d822b247989adb81deec61189a789f086a573986d7972f83cc78a8336a/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Megamind vs. The Doom Syndicate" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVkMmU1YWUtNmJlNi00ODJhLWI4NWMtMjY3YTA3MDJjOTVlXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_.jpg" group-title="GO WATCH", Megamind vs. The Doom Syndicate
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://s.pollllop.com/_v11/247db939d9f2b36876e11b7d24ef936c3b2d53ed1a05b4cd336185303b480d45f588f7d6e7fd9d6e7150e9ad885fa512695a6b8bad2a971b7df869160e4eb38ef73b0a137a020867c4dd74c8e3a74741024488a3103ac47a6604fea81f428adbaedc4157b979d5f56628fb036df547ca6a9dc31a988f6891859172abee418cf871d10e95fd220c2018a0d243db7c8f0f/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
