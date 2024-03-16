@@ -1186,15 +1186,17 @@ https://k.pollllop.com/_v11/3230ec1099c6c547d45cf19f5b152dd94ea45394941863bf2388
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://q.pollllop.com/_v11/6fde1a3d7d0239026177f34a1b483890dc2e36e8dd6a2aeb6989f656f82d7f9fde3f4b340fabed46e585e0ee62905f3b433c7ddbb52683b9fd9df1768e9e063a476f945d6e9f668068736485276056a9fe14c8cd9b6431d9ed7a0e0f583e500c99bb163b4c1da9109fed3bf0add3faa1c3a336626cac49c868629e683413e1fa3201da2d159553d4268380e25fe91b4e/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Chip 'n Dale: Rescue Rangers" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlMjIxN2ItNTMyNi00NDk5LWFhMzEtNzdiODE0Y2M4MWI2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="GO WATCH", Chip 'n Dale: Rescue Rangers
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://q.pollllop.com/_v11/ede40f1b63c7c9ab17d0d95eb0b3fd3f8823718609cf7b4501e8b816a4820e5501f5abe026f93553dcec5585f56604ae21d5f1fa629796421ef855886b9d01aa0c3e2c8c9d01b4ef6bf50739b392e6e181a7be361c47b4c1f4ff798db6af2cd6b47c86eb849f023df0ae5b0b79796bad2de6e6c3d485dcec4d1c60738ccb3070db881845a368d61ea7004095bceebb59/720/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Over the Hedge" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVhNTA1YzItZDNlMy00NDJmLTkyMWQtMTAxZWJkMWU0OTBlXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg" group-title="GO WATCH", Over the Hedge
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://k.pollllop.com/_v11/5a8dc2078a782051edbd163ab1f0d1ac4a57c1c579fd4bab1a78d2016c36602cb871fd500e5ff36fc5c32656f610c984ed1d953ba16e997cd72833f870114e8feb137f2c7adeb018d781c5faa3628e2639c66625b03289fc5a3f98cbfbd86e28ad81bb8c9a71eb18929196f89d0e9554e964b4d822b247989adb81deec61189a789f086a573986d7972f83cc78a8336a/720/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
