@@ -1177,7 +1177,7 @@ https://pldt-live-grp-12.quickplay.com/out/u/stag_nkl_japan.mpd
 #EXTINF:-1 tvg-name="PBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="GO WATCH", PBA
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.cignal-stag.firstlight.ai/getlicense?&kid=D8614996-1F27-11EE-BE56-0242AC120002
 https://pldt-live-grp-12.quickplay.com/out/u/stag_nkl_japan.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
