@@ -1186,11 +1186,10 @@ https://k.pollllop.com/_v11/3230ec1099c6c547d45cf19f5b152dd94ea45394941863bf2388
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://q.pollllop.com/_v11/6fde1a3d7d0239026177f34a1b483890dc2e36e8dd6a2aeb6989f656f82d7f9fde3f4b340fabed46e585e0ee62905f3b433c7ddbb52683b9fd9df1768e9e063a476f945d6e9f668068736485276056a9fe14c8cd9b6431d9ed7a0e0f583e500c99bb163b4c1da9109fed3bf0add3faa1c3a336626cac49c868629e683413e1fa3201da2d159553d4268380e25fe91b4e/720/index.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="GO WATCH", NBA TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://live.tv247us.com/tv247/nba.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
