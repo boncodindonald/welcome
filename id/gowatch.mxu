@@ -18,7 +18,7 @@ https://live-manifests-cf.warnermediacdn.com/csm/live/327489114/3.m3u8;jsessioni
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://offplatform-midas.fubo.tv/v1/manifest/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/788d2af3-9499-4bbf-bcb9-3dc680f34746/0.m3u8
+https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/samsung/master.m3u8?ads.partner=samsung&ads.did=e4617435-676a-45b2-8d96-612bc0f79363&ads.dnt=1&ads.us_privacy=1YNY&ads.app_domain=samsungtvplus.com&ads.app_name=TV%20Plus%20Web&ads.channel_name=fubo_sports_network&ads.station_id=120123&b_ip=87.249.134.131
 
 #EXTINF:-1 tvg-name="New Kpop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103CIRCLE.png_20231031225103.png" group-title="GO WATCH", New Kpop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
@@ -78,7 +78,7 @@ https://dwkb48p7i6lg6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/c1a983ae-c69e-4332-ae8b-a8ed35e8bd54:MRN2/master.m3u8
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_desktop_web_live;imafw__fw_h_referer=&imafw_description_url=https%3A%2F%2Fwww.etonline.com/live&imafw__fw_did=tifa:e4617435-676a-45b2-8d96-612bc0f79363&imafw__fw_is_lat=1&imafw__fw_vcid2=e4617435-676a-45b2-8d96-612bc0f79363&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&imafw_is_lat=1&dai-ah=1&b_ip=87.249.134.131
 
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1700001MP_20220621T075703CIRCLE.png_20220621075704.png" group-title="GO WATCH", CBS News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
