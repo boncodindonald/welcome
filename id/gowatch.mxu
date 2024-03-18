@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="test" tvg-logo="" group-title="GO WATCH", test
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1700001MP_20220621T075703CIRCLE.png_20220621075704.png" group-title="GO WATCH", CBS News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
