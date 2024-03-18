@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-name="HLN" tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/hln-carousel-logo.jpg" group-title="GO WATCH", HLN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="GO WATCH", CNN International
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028338/cnngo/cnni-cenc/master_wv_de.m3u8?_fw_ae=&_fw_ar=1&afid=62117007&conf_csid=cnn.com_live_desktop_turner_cnnix&nw=48804&playername=top-2.11.0&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&playerType=standard&wm_vw=stlr&pg=network&_fw_gdpr=0&_fw_us_privacy=1---&audio=muted&vpmute=1&vpa=1&paln=AQzzBGQEDTYk9JKLka7ax7Icn9ARcPitqPZLKrdlmZSYJtTnumqL1zzhrDK7tn-WYXp3ZzRIgDL4QRkTAVIRZzgkFhdEtzwXBDI6vXBoCO0JFgfysTn3lrapUIzncw40HVhc_SoLYqPPzBA9eh2oZ4w5X6p6VhwqiH3KnMFr34k5JZ86ehQzAdCQxcVhIa0uG32LMcUqqtWDt-Ck9MMa64edl9zyJpLrK4MtXdVB5nS0hUU47nJkdE27hDXX0E4cIrUANOpDOxkAAFlqr7ox4SCfLav11BneHTm7I8eGV6ZIoQUWFv4VWZO3J05zuOOlA91uE7SFGYjn1gagf2vc6V4qLIgQUPdMkBkFev-pAeOdi4SZcJVAzWrt1EHz3wSJmVe7ev4sIKyI92aUJ7mOPCs4SN1pfeGndORP0QzBej0pTGRcnZbYr4ZGKP7d9Y1xaUN-PHRootfmmjyK8hDr_UgLWndsa1_oltbzecttLxfYIrtAlG7oxcymYvV1mTeWFPKFJsI6ap3NkGi_SzV6OSXDvGeZUDPWzwTzpRwpqhcrocZHc2lUarXT1uOoCzqtBYP6rbQgxTwzYLTSrS7tZljgye8Q4-7-Y5Xb3LaLKqKLhVqmBkQ0Ih9PZ7Cbg8olP1-H25COstFYCmz4axCule2uLWl5D9crmDGlKrsde2HOTPNmfngyHIQCPAsPfTFYri0nZP7j5Pg-zSIt5rHo7_UlBvJxwZOaYLSKGNJoHxSPaHhw4VcQI7ONMqBIzpJaYb9HJWqxHMCX8utRu8QiOurbjHSTu7KS26qI8JyFacZ1zfvLo3FGOLMrhN4y5padorpkAIyvDrUJO_zQzfBdShygkGIxM5vG2GnD_Sz4KhVUAf6mRfqjEbPsQ22Oz-KLWuDoanBkMvFn4uOkRZIBpmYccvOA5YdPIri4q0gAuqk5fMGnBR9TsQBZLepKHEeaM01pnbQxhR0GUyfhcWdBKESpPmP7uprchMZR5_j3zR5CELV87g..&_fw_cookie_consent=1&protocol=ssl&inFocus=true&cdpfl=lrfff&abip=false&yo.av=3&yo.pdt=sync&yo.lpa=dur
+
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg" group-title="GO WATCH", Fashion TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
