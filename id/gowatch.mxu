@@ -3,6 +3,17 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-carousel-logo.jpg" group-title="GO WATCH", CNN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.license.istreamplanet.com/widevine/api/license/8bdea901-620e-42a0-9245-56d155823cfb
+https://live-manifests-cf.warnermediacdn.com/csm/live/327489114/3.m3u8;jsessionid=80240CF30464D516F56A67975F98F5D1.csm-e-cewbdausw2live832-07e33b588c19103a9.bln1.yospace.com?_fw_ae=&_fw_ar=1&nw=48804&playername=top-2.12.1&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&playerType=standard&wm_vw=stlr&pg=network&_fw_gdpr=0&_fw_us_privacy=1---&audio=muted&vpmute=1&vpa=1&paln=AQzzBGQEhK0zXSXg91QEkp4NQIpwH6Ow2PG2MhZYysPlaEeWQtEHBSsuYJ5CKMU3mHwoOZewWqOCw_Vdcm0T1jYWta2co9wynYj4Dpgjs3ES1y4WZrjEdR6CI5EY8PvJdnx7JZyzb5GJ2SWVxz4YobFAjw6787zmmx1bV7-G4Tef97ICXHt4IfD1gpRUHpA_xgFngq9KsEpnrwJ79CHbIaycO3c-15K6Uj04cVrHrzLWPYwvA_OU9iBGn0NlZWeRicfX4Ch7hdGLsJP_takEES2xUqhYacsASsaHx_mfrFfb67VaHj1ssjBuXTDZsCQzuEDDg-zG8z6N-bzQEyJPth69LYSPRNnwyAipP0chC_AFpMofrDMhKZsYP2j8OYDxnREksYdhHG7GxdbXpUvsO0cFXBdAHk2y8mDoQVX46KmDSqsqhm5c_RVs1BPTVnXHEph9ZiAO7OUoQ4zd8PGtkSfS0vdQ2hjEveHqkm1KtCiP6-IG1vFG0kTGDYQMwtaaTSn2FJCrj7wPay6fPgvDFPEZDLpvKgKE7m7Fi6-ZIH9To69t_Nt0MGzqvkd7g6Y4YPsdnTIikBbzDfFr97anOKwtIFa44hfrA1i7ym6-MTjiRzj8_tSa5pG4TyJpQpOWIKjfG2C3xN6WTb0rxXDtcb1s95HcPjvjtfVnsP5SDCpuoEO3fox0rdPMNwBi2tkIRdeIth8BrqR4eeBZe_6cZLubG1-bL83FhbADqZJLbTS1abL1H2ov0Lr5lkyHKP5WfQmuE_u4gp9LhzHCgLlNVM-QMIQYMmF2fr3HkDS2F6DFx8yo7q1qct1ethmZMCnWTMkVi-VseWKDgGPFlWr9TRk0Hi1GNgnvqe9q_D07gz91EO27hR0SGv0138yeEe4BVFaIZp7WLgEcTBv1hO8NiWlqBopdtlwFQ56mp-SbrBZmNaFvprzIDobXxNyWl5Szdd0_YGdf8a75sUN6SUuVPfbBb-Daw3X_&_fw_cookie_consent=1&protocol=ssl&inFocus=true&cdpfl=lrfff&abip=false&yo.av=3&yo.pdt=sync&yo.lpa=dur&yo.aas=true&yo.t.jt=1000&yo.t.pr=1000&yo.me=true&yo.ap=https://vod-media-cf.warnermediacdn.com&yo.po=-4&yo.up=https://live-media-cf.warnermediacdn.com&yo.ls=8,2,3,4,5,6,7&yo.kf=wv-cenc&vip=37.19.199.148&yo.eb.fb=aHR0cHM6Ly9saXZlLW1lZGlhLWNmLndhcm5lcm1lZGlhY2RuLmNvbS9jbWFmL2xpdmUvMjAxOTA1NC9jbm5nby9jbm5fc2xhdGUtY2VuYy9tYXN0ZXJfd3ZfZGUubTN1OA==&externalId=2019054
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
 #EXTINF:-1 tvg-name="Fubo Sports" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20231114T233434CIRCLE.png_20231114233435.png" group-title="GO WATCH", Fubo Sports
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
