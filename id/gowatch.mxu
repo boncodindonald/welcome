@@ -4,10 +4,11 @@
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://dai.google.com/linear/hls/pb/event/EezGs5EpSjSr-sYjB2qysw/stream/3ac9a434-2923-4922-b8ea-2290e7314027:SIN2/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555CIRCLE.png_20220608005556.png" group-title="GO WATCH", LiveNOW from FOX
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-newsnow-samsung/cb573d1a7d6c628e84c83f64cef94382bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769986b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe6375551ac586a526bd5be5df96b07c1d55e967e28def8c0333b745842cd0c5fb3a458a1f8e60c46df669f8b2b19c16c5bb3dc06ebe7268a81de73a47dd722b20ad8d19fcb9149c4d7c22a8b61885058610c44c3c513fdc859a5949b7929a375274b1f5ce8d1e0943f2f874a5049f6f8dfa975f306ddc7268e6d6dc66af44e8023c46aba1998ef4fada8c9b2282a0d92846b6d32b3a5978ff96f62d701faa6fa9377759d84521203cc398e737c6cc3a88642d39514dbe27687e624453c99c708cdcce081ece08b1dc5769c94c6ad573126d6ba52f63cd8f85ff46bba4aa7c3122f554c36dcf037e1b3a992b4ff2dfce67bc10114a9def1e3956e698d08b33b998fea4f419b53124c052951c39e67f3d10640f51028e95725850ddead2ffda6c9e0152f8f2ea628cf42e0af03defa03e638720942fbc5255141436ac3ae48397028930bb4888ad67e0756b8ac8de6960763472b01085dd9b1a920d2cee72c1e1dce1c7430254047c7548729f9095b0528c6069cfd5b27cb5653588ccd0854546899dfa2c1d686b8239b4b939ead777f411c09da1e0a3c67dfba8c238c1e426c7f5b8f17240efd30534cee9adef6dbe74acb8f6fbe37721e0192a80f206d416ca0e33dc9a29cbd741085cf3e71/78/640x360_985600/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
