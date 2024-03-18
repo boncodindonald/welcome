@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-name="Shop TV" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Gf_p7MGNJ8L4_V30tpNX3g.jpg" group-title="GO WATCH", Shop TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.iwanttfc.com/api/1.0/stream?streamID=event4
+https://abslive.akamaized.net/dash/live/2032652/event4/manifest.mpd?utm_source=kc&utm_gmail=boncodindonald@gmail.com&utm_userid=donald+boncodin
+
 #EXTINF:-1 tvg-name="GMA Pinoy TV" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/1wun5AQ36ar7vLwql1xmUA.jpg" group-title="GO WATCH", GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
