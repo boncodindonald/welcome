@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://fashiontv.com/assets/logo.svg" group-title="GO WATCH", Fashion TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Shop TV" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Gf_p7MGNJ8L4_V30tpNX3g.jpg" group-title="GO WATCH", Shop TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
