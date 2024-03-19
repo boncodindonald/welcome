@@ -86,7 +86,7 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://dai.google.com/linear/hls/pb/event/EezGs5EpSjSr-sYjB2qysw/stream/3ac9a434-2923-4922-b8ea-2290e7314027:SIN2/master.m3u8
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_desktop_web_live;imafw__fw_h_referer=&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com/live&imafw__fw_did=tifa:e4617435-676a-45b2-8d96-612bc0f79363&imafw__fw_is_lat=1&imafw__fw_vcid2=e4617435-676a-45b2-8d96-612bc0f79363&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&imafw_is_lat=1&dai-ah=1&b_ip=89.187.180.3
 
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555CIRCLE.png_20220608005556.png" group-title="GO WATCH", LiveNOW from FOX
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
