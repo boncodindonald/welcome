@@ -3,10 +3,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="SMNI" tvg-logo="https://www.smni.com/_next/image?url=%2Fassets%2Fimages%2Fsmni-logo.png&w=128&q=75" group-title="GO WATCH", SMNI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:-1 tvg-name="UNTV" tvg-logo="https://www.untvweb.com/wp-content/uploads/2022/04/untv-news-and-rescue-logo.png" group-title="GO WATCH", UNTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
@@ -14,7 +15,7 @@
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
-#EXTINF:-1 tvg-name="Hope Channel Australia" tvg-logo="https://images.hopeplatform.org/resize/L3dfNTAwX19xXzgwL2hvcGUtaW1hZ2VzLzYyNGQ3MzM4MjQwZWY3NWVjOGZiOTllYS9vUVExNjUzOTE4NzMxMDc5LnN2Zw/w_500__q_80/hope-images/624d7338240ef75ec8fb99ea/oQQ1653918731079.svg" group-title="GO WATCH", Hope Channel Australia
+#EXTINF:-1 tvg-name="Hope Channel Australia" tvg-logo="https://learn.hopechannel.com/assets/hopechannel_logo_dark-9ede28c88de4a0e51324210df0df9deae165bf9fd0ab9fd23562e6dfe33f45d7.png" group-title="GO WATCH", Hope Channel Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
