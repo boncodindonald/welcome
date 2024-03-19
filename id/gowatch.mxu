@@ -118,7 +118,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/0c95a807-82b3-40a9-9d5e-80ab92a2dd68/3.m3u8
 
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg" group-title="GO WATCH", Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="GO WATCH", Fashion TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
