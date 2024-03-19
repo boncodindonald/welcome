@@ -13,10 +13,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Hope Channel Australia" tvg-logo="https://images.hopeplatform.org/resize/L3dfNTAwX19xXzgwL2hvcGUtaW1hZ2VzLzYyNGQ3MzM4MjQwZWY3NWVjOGZiOTllYS9vUVExNjUzOTE4NzMxMDc5LnN2Zw/w_500__q_80/hope-images/624d7338240ef75ec8fb99ea/oQQ1653918731079.svg" group-title="GO WATCH", Hope Channel Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 
 #EXTINF:-1 tvg-name="INC TV" tvg-logo="https://inctv.iglesianicristo.net/wp-content/themes/activinc/images/inctv-logo.png" group-title="GO WATCH", INC TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
