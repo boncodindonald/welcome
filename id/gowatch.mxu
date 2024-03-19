@@ -15,7 +15,7 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
-#EXTINF:-1 tvg-name="Hope Channel Australia" tvg-logo="https://learn.hopechannel.com/assets/hopechannel_logo_dark-9ede28c88de4a0e51324210df0df9deae165bf9fd0ab9fd23562e6dfe33f45d7.png" group-title="GO WATCH", Hope Channel Australia
+#EXTINF:-1 tvg-name="Hope Channel" tvg-logo="https://learn.hopechannel.com/assets/hopechannel_logo_dark-9ede28c88de4a0e51324210df0df9deae165bf9fd0ab9fd23562e6dfe33f45d7.png" group-title="GO WATCH", Hope Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
