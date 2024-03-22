@@ -8,6 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
 #EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="GO WATCH", ABC Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -108,7 +113,7 @@ https://live-manifests-cf.warnermediacdn.com/csmp/cmaf/live/2019057/cnngo/hln-ce
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8?ads.partner=fsn&ads.station_id=120123
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37/variant.m3u8?url=62097807670ffec35da7993a85581acd-86274b241ec61a4d48802ca0c85e6eca0034690531ec0bf14cfb2c162c82144973fba043979f76c4694cb03fde1a1237fd1984335c0e636461fcf69d3284e6b3610c51b8a3975ba26e43be1ac2f5472cb65dd27138c004bdb9e46235261880998ca97b04b35778d008e40739e9201dbdb285ef809f23330fe47d956533cd047311e41de4906dc7896cd2675abcc4f8cc6224c57f2b1c239665b82f92d5a3b9ce&x-plex-token=pqC3qorJsW7e7Q2mxMJB&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1711111730
 
 #EXTINF:-1 tvg-name="New Kpop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103CIRCLE.png_20231031225103.png" group-title="GO WATCH", New Kpop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
