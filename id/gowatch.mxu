@@ -8,10 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="UN TV" tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="GO WATCH", UN TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_c3pl70dg/tl/main/st/0/t/daGLNz3XR4MPfM7KjjxiAQ/index-s100.m3u8?__hdnea__=st=1711114071~exp=1711200471~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_c3pl70dg/tl/main/st/0/t/daGLNz3XR4MPfM7KjjxiAQ/index-s*~hmac=4da00d23390798c4704fd8dbc3ac29bf39ad24a44a5436de831b36a93240c5cf
 
 #EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="GO WATCH", ABC Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
@@ -133,12 +134,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7b73f
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7f79ba3e1368f8b97/variant.m3u8?url=6c14d128a9ba73acb0d1a85ebdab6cbc-056acfcdd0cae83d8ba1ddef3d6a40fe2b6e984d9802e2962ea25c8587cb47dcc63c244df2337b996f111aa3d71c9f11322ad33de3adbc5bc6ec0fc85926905533d9a88259a6c0c3ed0bf48df0e1e776acabb4762ecc83c3922e51fac17416d87c13e4ee02816bcca205b03d85be3bc549cdf3c62a4d7fd4ab6e7e9763e4d458d1bd8d54262a0fe21b137f871ac2f25f323c09e91a68c232ef16952fa34f8a3bdd7a832ef98728bc53f1521be65f5e57c5404cff1f851a18030de22e0e96dd00d30ff1d99113ee0763dd1e76de50e8fde65131b12803a02cac665acaa29eb31b700a69d823ae8ab5dfbb11379c4080bebc103aa36096dd58c1a305e9c8a7500b5698affdb1ed176a7fbcc02968b53d9ed7110076319e226292edb779a1adf6cb46f65461d11bdcba175bdfa2a7377491d9081a58bfed7135e1f9913a20b1654ea9c6db712bcde7921f0784d08d0029aaeeaba3d843e89bb3a16876f58de8d05065b48ec3fbc72e3eed2083542d1e3d466f9c975b66446ac87521c299f9e1ca33f55280a9200c498a61a8f249c2d4ede3328854bb50ffa1f27f1955b0178cf4208b9781b61da21e3fa63e26bf029f8960bf77c2682251f8a54fb2f939ea62cba89dc7dde6a0c294df13a6e522d0818a60c34dc6aa86bf75a59016a6e1275988edc8109a36e8992d83b6dfd4879c31dcd995506e1bdf5fa0688afe6e7168e9f6126ecd3311724375e50abffbb56fe1a06fea7843323f8ad1d75c133f09e01a3ce9dcaaf1da5535fd10d7f751518045d4d285f8eb043cddaac6ed67ed665b335bf9a343d39aed35444b2dcd27bb2b88a93c0dacbf17af7af967275a9f2ed7953cae56fb028c70f4b0af5660776e82f403db61fdd23d9e2cc701427ce6df17413e014264422afe7d716f704c66fc4860410972317d71ee8a755a51ee3074241a2e1537b0855fcebc8b874c37019ffeabaf90aae395fd048464fe36de042d9fce3ad8156b77490940376b14b828a4004b1947227615c39f5dfcfc950c5595a624e9ac5e246b4ddf6558c609b57764efcc0a0176823cddc48699cf4689bfb3218ed4b31b04fcffa330338f423fd8cf671d0aa31bffc6d5beeaf72fcd0d4dbc0e0817beb617e420a9dfd50e202aab2fa1e07969e6649dec96e241d17e5f17aaf46909e24a2de226425930fe91693b37eb8e15ef584c92872250c08021023d3f1db16cf484a821785801a2f31d08cce9ba21d5826af5275c347a29f0ed231301ab277ca8ce6c575918b76ed49cb10a982260fae8b9fb708ab805014df5da1724a4b269f50ce9aa194286367cf8f96d738856b332542ccbda02b3a7ba9f159082d0a0e3cde231d0946d67ecde70abbf778f8a47b5789a705916e9057d78577b6122800387e7733199d2713af6f831e379feffb4b2232ab410594277bef6317c6841d86bcf5cab0ddd0611d76f1ad872c14f63c79716875376fbc710793fa3243a2d7f69cc40e6752e69864da7eec422b2ff091fe931255ee8386e48d1ded3043aa56daea7a5fa1cadf12a2946276bd1ccda27fa307a815926e44db6c4c4e0b08f94e0fe97eb96b877e11f0a76a247ff6bb1cb0059f84bb237510f7380d721db2834ebe7aa9a22ce28056f2463b83116b6fd69d6cc4aebee7244ea0a3d7d88bec8955ede82bd49a1bf8f1fa2f4f2b97a7e836c10176a5564593a8ffb244ebafe36aabcb5df2419c76a8fc222b046e903eaef9ee955bd50c1d83978a8858a808dd2732bde26bea7952344069ddb11125ccd0e92a654efb444106536eac4d85b4a192751cb68c9602962fa708938b91e14cf391986dde2591f98e7b47796ee48586600c55bb4b08b58d32cc018cb78361c075a8b2e8cbf570deb5612393b10fea9250680ddeb06d1e9b61eb25cd6443fe4afbb37e0010965bed08fb70326d4fc835e7067693403e467b23bf005591dc7c07c5750d33eb60cf036728dc5b1f26882e08bd3d64d32c38a6a3a410fc7085b572f90f0dd9d64329e37767315430b16d9fbb6a4eac064e121d319dd9e088ad65e84ed9fc255b424c518d300a641f1d468aab0d2b1d772f03a089a33208b7e2e7738e3b2c619b42d2f7cd7773ce783414223a0144dcd52e6740bbb5c826c02b68ed516e6c6afb6c3e7c215558468846e44a1fc6d54e0ffb4d00e93801b934673522be163f3be&x-plex-token=pqC3qorJsW7e7Q2mxMJB&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1711110922
 
-#EXTINF:-1 tvg-name="The TMZ Channel" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20230823T001754CIRCLE.png_20230823001755.png" group-title="GO WATCH", The TMZ Channel
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://dwkb48p7i6lg6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l6uh4ihckztfw/f74da82c-185e-49d6-bfba-5cd15a705f64/0.m3u8
-
 #EXTINF:-1 tvg-name="ET" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB17000024E_20240131T021400CIRCLE.png_20240131021401.png" group-title="GO WATCH", ET
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -168,12 +163,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://ve-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:ww_bbc_stream_051/pc_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438CIRCLE.png_20230509224438.png" group-title="GO WATCH", Sky News
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/6d4caf64-3272-4b38-809b-6ef41df2342a/1.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg Television" tvg-logo="https://cms.cignal.tv/Upload/Images/Bloomberg-2022.jpg" group-title="GO WATCH", Bloomberg Television
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
@@ -300,12 +289,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/320px-MTV_2021_%28brand_version%29.svg.png" group-title="GO WATCH", MTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-http://jp.vthanhnetwork.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-name="NHK Wowld Japan" tvg-logo="https://cms.cignal.tv/Upload/Images/NHK-World-Japan.png" group-title="GO WATCH", NHK Wowld Japan
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
