@@ -34,10 +34,11 @@
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="GO WATCH", ABC Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+#KODIPROP:inputstream.adaptive.license_key=https://wv-keyos.licensekeyserver.com/
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://cms.cignal.tv/Upload/Images/Deutsche-Welle.jpg" group-title="GO WATCH", DW
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
