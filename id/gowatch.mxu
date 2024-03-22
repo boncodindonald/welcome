@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="UN TV" tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="GO WATCH", UN TV
+#EXTINF:-1 tvg-name="UN Web TV" tvg-logo="https://webtv.un.org/themes/custom/un_media_theme/assets/un-logo-white-en.svg" group-title="GO WATCH", UN Web TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
