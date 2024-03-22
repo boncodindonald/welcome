@@ -167,7 +167,7 @@ https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-news
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d2ww7x6333b6qp.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-nbcu-linear/52375b05-b014-4f71-aaa9-586553d1a4d6/1.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca/variant.m3u8?url=1045a4282892084ad9c6724d3929796c-b3ede239b327c625db68242d41130ff53d4be3705df2dbc873a2f6296aeb304d570bd4abdbef1452200e46121c53533f27e447d8e1d5797182e1d7092d84528fd04afd0ce378eb93186a337cb9d9c49a5bdf2041a993128955fd76e085517be70e1ee3f1e6c7daf6139c3b89356a20af6879c40031fe6f6b440bc6dfac959d4fbfc0c1f97d8abd90f4c7bb396e2b68b2aa585514fd0cdad209acab8a4f1f2957&x-plex-token=pqC3qorJsW7e7Q2mxMJB&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1711111910
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://cms.cignal.tv/Upload/Images/BBC%20News.png" group-title="GO WATCH", BBC News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
