@@ -63,7 +63,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
-#EXTINF:-1 tvg-name="UNTV" tvg-logo="https://www.untvweb.com/wp-content/uploads/2022/04/untv-news-and-rescue-logo.png" group-title="GO WATCH", UNTV
+#EXTINF:-1 tvg-name="UNTV" tvg-logo="https://cms.cignal.tv/Upload/Images/UNTV-2017.png" group-title="GO WATCH", UNTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
