@@ -71,7 +71,7 @@ https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 
-#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://inctv.iglesianicristo.net/wp-content/themes/activinc/images/inctv-logo.png" group-title="GO WATCH", INC TV
+#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://cms.cignal.tv/Upload/Images/INCTV.png" group-title="GO WATCH", INC TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
