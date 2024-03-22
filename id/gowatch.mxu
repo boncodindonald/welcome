@@ -23,10 +23,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://cms.cignal.tv/Upload/Images/CGTN.png" group-title="GO WATCH", CGTN Documentary
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://cms.cignal.tv/Upload/Images/ARIRANG.png" group-title="GO WATCH", Arirang
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
