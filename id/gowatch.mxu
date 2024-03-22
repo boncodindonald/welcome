@@ -108,7 +108,7 @@ https://live-manifests-cf.warnermediacdn.com/csmp/cmaf/live/2019057/cnngo/hln-ce
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/samsung/master.m3u8?ads.partner=samsung&ads.did=e4617435-676a-45b2-8d96-612bc0f79363&ads.dnt=1&ads.us_privacy=1YNY&ads.app_domain=samsungtvplus.com&ads.app_name=TV%20Plus%20Web&ads.channel_name=fubo_sports_network&ads.station_id=120123&b_ip=87.249.134.131
+https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8?ads.partner=fsn&ads.station_id=120123
 
 #EXTINF:-1 tvg-name="New Kpop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103CIRCLE.png_20231031225103.png" group-title="GO WATCH", New Kpop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
