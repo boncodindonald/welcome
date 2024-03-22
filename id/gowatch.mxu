@@ -165,11 +165,11 @@ https://vs-cmaf-pushb-ntham-gcomm-live.akamaized.net/x=4/i=urn:bbc:pips:service:
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/6d4caf64-3272-4b38-809b-6ef41df2342a/1.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20230208T100259CIRCLE.png_20230208100259.png" group-title="GO WATCH", Bloomberg Originals
+#EXTINF:-1 tvg-name="Bloomberg Television" tvg-logo="https://cms.cignal.tv/Upload/Images/Bloomberg-2022.jpg" group-title="GO WATCH", Bloomberg Television
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/0c95a807-82b3-40a9-9d5e-80ab92a2dd68/3.m3u8
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://cms.cignal.tv/Upload/Images/Fashion-TV.jpg" group-title="GO WATCH", Fashion TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
