@@ -116,12 +116,6 @@ https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d7
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/01a29e0d-a8d8-416f-bad9-7e163b022332/0.m3u8
 
-#EXTINF:-1 tvg-name="Vevo Features" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231229T003156CIRCLE.png_20231229003157.png" group-title="GO WATCH", Vevo Features
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d281w17vgfepv6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/f2693d43-75fd-4d24-9135-c6b3927da8a3/0.m3u8
-
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728CIRCLE.png_20231024234728.png" group-title="GO WATCH", Vevo Pop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -134,29 +128,11 @@ https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/beacon/amg00056-vevotv-vevop
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/beacon/amg00056-vevotv-vevocountry-plex/cb573f1965736c9098c83e78d2f24682bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769e86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe1375551ac583a526a88bb50ae6b07cd840e967e28def8c0336c2c5d42ca5f55e3a20df7aee00c4c8966ba8b2119c16c5bb4da13978a49e7f98079b479ae70f216949bf7d9d4428585c76bab03b4315b59262e9bd621c9ba37dadd9e792ba37227480d50e8b7e19d245dd61d28369cf8cfaf778d70a4e875db105dd2019c5cca33857bba08d58224c1fde18e282638a0d715652ea497e6e0bf6464be64fda6b0843e78c0f44c35129d6c8b6f736fc4ff8610d79044c1e72780b66c486f9adb2feb9cb690a188c07a9020d28ac097364740117268f24db3b93eca26cf52bbf944240b7c16a08278eea483265a0c4e829310c10024a9c98295de0d22b806713eb92d94165f02a6536d78f663fd94281eea4c6bd56f49913220937decaa25e3a6d8fc745ddfba960fb222dda860a39ebd02f05e236090d36e39664d73d1ea677f4813a16bc5a30765ea6b7a81d9c2ecd45b78263412400588e39d1cf3703bbb7f64a47e2770781555e46c41f14c623b6201e764b483076084142822acc2553e763ab79af4e983a75dc0b4be6543d81956b961146a828515ce99d9ac54f82a427d7b12b400764cb31355781af4a3d5b48f74c79068ab77375a3385b8204807567c7419dbbe5c970fb2dd4de2dbfd55c2b9d949059d6af75a508cc6863daab9cf97064fb7af541268d8817794237d9647856baedb62ddb65a1e536d121c8cde268a35d3e893c92f953bbe0f522e981f95a8a3e28628069dd420541e064f1e735e77567d9ed3c7610674f4fc6aa66aefe551a65547715863db910b4a89f87d7ecd636601f3a5181f3ec83bd60f1f9de64d2694e8/1920x1080_7333040?bcn=1&ca=0&cid=TIVEV2300109&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv%2F1080p%2Fseg_0570829.ts&seg_id=570829&user_id=14d8ef93-e844-11ee-bea7-e2862cda1a9a
 
-#EXTINF:-1 tvg-name="Vevo R&B" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038CIRCLE.png_20230322000038.png" group-title="GO WATCH", Vevo R&B
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d188921up0bidw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/2e24ff24-76f0-4869-9ef3-ebdbac663223/0.m3u8
-
 #EXTINF:-1 tvg-name="Vevo Hip-Hop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030CIRCLE.png_20230322000031.png" group-title="GO WATCH", Vevo Hip-Hop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/beacon/amg00056-vevotv-vevohiphop-plex/cb573f1965736c9098c83e78d2f24682bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769e86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe1375551ac0a36576188e90da96b07cd8409967e28def8c0693d740c42965f5db1f45aa6f8b70c17df66bb8b3c19c16c5b8f9f22958154a6e48b00cb1da450cb30ddd38388924fc0fcd204ae02b5055b553a50b3a223e7a337a3c9a5792b95672945072780c9f7af0371cb1d333691fecfac2bfc1cde9924f3035dda50c21eee578b6fb947a3e84ad2ebd19b13163aa6c25f387eede1f988a37866e967a8efb18a277ed4f2472b169e3cdc27293dc5aa917feea71292a631f7d7037c689ae22ff79ab693fd8f8e459236cfc9e0ea5e282f335e7aec33a39e7e953cce47b8dc1a375d4e5ddffc3fa0d794137d3821ece75fd00055bdd59ff1bc645a9a3a50308561dd484b6fc4356272e021d09e4e16e35e5cd66764a20f37d744abe12ef4f4deb4556dedd89f40a638dda860a39ebd02f05e236090d36e39664d73d1ea677f4813a16bc5a30765ea6b7a81d9c2ecd45b78263412400588e39d1cf3703bbb7f64a47e2770781555e46c41f14c623b6201e764b483076084142822acc2553e763ab79af4e983a75dc0b4be6543d81956b961146a828515ce99d9ac54f82a427d7b12b400764cb31355781af4a3d5b48f74c79068ab77375a3385b8204807567c7419dbbe5c970fb2dd4de2dbfd55c2b9d949059d6af75a508cc6863daab9cf97064fb7af541268d8817794237d9647856baedb62ddb65a1e536d121c8cde268a35d3e893c92f953bbe0f522e981f95a8a3e28628069dd420541e064f1e735e77567d9ed3c7610674f4fc6aa66aefe551a65547715863db910b4a89f87d7fcd6c2d78c4ddd1ea0d7dc47a9ab50cbf4253e5574b/1920x1080_7333040?bcn=1&ca=0&cid=USWBV2101586&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00056-vevotv-vevohiphop-plex-om085.amagi.tv%2F1080p%2Fseg_0421224.ts&seg_id=421224&user_id=c8a3e4d4-e843-11ee-849f-920dd457fab7
-
-#EXTINF:-1 tvg-name="Vevo Latino" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426CIRCLE.png_20230809005426.png" group-title="GO WATCH", Vevo Latino
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d1jg19cd16tz4s.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/7c34bc2b-30a2-4650-aedb-2dffc47388ce/0.m3u8
-
-#EXTINF:-1 tvg-name="Vevo Retro Rock" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430CIRCLE.png_20230809005430.png" group-title="GO WATCH", Vevo Retro Rock
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://d1uttzwuh34h7x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/93493b3f-8798-4134-a4ff-0bcfcc35523f/0.m3u8
 
 #EXTINF:-1 tvg-name="The TMZ Channel" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20230823T001754CIRCLE.png_20230823001755.png" group-title="GO WATCH", The TMZ Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
