@@ -192,7 +192,7 @@ https://d2ww7x6333b6qp.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://vs-cmaf-pushb-ntham-gcomm-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
+https://ve-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:ww_bbc_stream_051/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438CIRCLE.png_20230509224438.png" group-title="GO WATCH", Sky News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
