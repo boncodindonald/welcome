@@ -114,7 +114,7 @@ https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/01a29e0d-a8d8-416f-bad9-7e163b022332/0.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?url=634a8d2fcac04b368f238837fdf0cc5b-2ab4d73204de78c79d3c898da2affc7a16a0963da69fa29d61b0327d1317dc0c17b5c693ab624ac5d5605e3d96cfe5a313f9e2cbae9560214ed0c96a9c94c313e88c2174eb1b1b68b09f7a72e52bf7700fa20a903afedabda02f2e53e66cbd586e8cea1d721a87fef885cc6c93108f877223887777706416e1a2cf12054ad910bf0537fedda44d1bd2da6688bbf5ecea97380b3c3c44a513bfaed311c80eb87c83e8d3b09d159e58ce939c6abeaf536ea1d35a659d2d091b4c5eadd5475759e6&x-plex-token=pqC3qorJsW7e7Q2mxMJB&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1711111101
 
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728CIRCLE.png_20231024234728.png" group-title="GO WATCH", Vevo Pop
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
