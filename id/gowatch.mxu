@@ -8,10 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/320px-Dorcel_TV.svg.png" group-title="GO WATCH Adult", Dorcel TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/47202.m3u8
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://lh3.googleusercontent.com/zlY3Y4NeTgeXxfW5MmTt34F59L5V1eDUdi8b3r-jMKjyZv-2LtzANgOEOmPVM-cEqUwqjr4S0LgW8TCIY5HllbPt-AMllhfVlW56bw=v1-rw-w100-h100-e365" group-title="GO WATCH", Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
