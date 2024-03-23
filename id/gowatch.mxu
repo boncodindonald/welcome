@@ -8,11 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://lh3.googleusercontent.com/pnrRfZtPfKK-AjkUMGQKJtGHEAtMDFiB6c4faSf3kNz13a0o14-ngZoDuBn2Vmx-nZwb_8ewD3lmpJ2pg7B5qTPbHpfyLRGjhFemmTM=v1-rw-w100-h100-e365" group-title="GO WATCH", Animal Planet
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-
+http://206.212.244.15:25461/live/A5fmpZqDfG/5468440902/22570.m3u8?token=TUEMUBFQFVsUAwpQVg9XA15VBwAOAw0AVAFTBw9eAFUPB1NQVFtWUQMWFRdHQxcHWQk6UV0SAwNQBlQGGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1ddB1MaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNQDgBQFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACgBYBgcbSA==
 
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://lh3.googleusercontent.com/OTCbk2SlPRIQaNs--QVQe5txOQcdzwFQcZEHz4IdcDWPEnGOCZA_4CAiwqhW8tnp2g0E0B0WJA906Q74d6FTxFCAKquRcyTzSozH8Q=v1-rw-w100-h100-e365" group-title="GO WATCH", AMC
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
