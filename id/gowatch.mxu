@@ -13,35 +13,41 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://lh3.googleusercontent.com/nzfWOAMoQyKUxLzPnqLCOqpaKb27XYEK8Idf1psMZAOGwaLHTuMukExMjjfT9ml3VgWPC5zmDawbM7DizjKM1UNhoX3FPEuckv4=v1-rw-w100-h100-e365" group-title="GO WATCH", TLC
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://104.224.77.2:25461/live/A5fmpZqDfG/5468440902/15969.m3u8?token=TUEMUBFQFVsUUAoBBA9VUgpVBAkMBlsJV1ZWAgQKVVMAUFICVg9WWFAWFRdHQxcHWQk6UV0SAwBXClUPGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBVFVCFoaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNQAQdYFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQVWDgYbSA==
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="SEC ESPN Network" tvg-logo="https://lh3.googleusercontent.com/G5YGuqzgZ9KmH0TrtF4yZG-fbhczpfSVqhY4y2r5oDa3OQqwVgKd-6Hd8Pl0ZePnpTC7cjlIdAFZaMw1kTanWUwyAWlc5yIdwoulgw=v1-rw-w100-h100-e365" group-title="GO WATCH", SEC ESPN Network
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.14:25461/live/A5fmpZqDfG/5468440902/23258.m3u8?token=TUEMUBFQFVsUA1wEVQ4AUQ5dUggJVFoFUQtbVwUOVwFXUQABBl0BWAAWFRdHQxcHWQk6UV0SAwNRAVYOGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBAFtUAkAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgdSDQdDGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNXCQZWFEk=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://lh3.googleusercontent.com/848MXPpJE3QVMU9TGUHG1Au1Iw_H3AsKhUQC5HL5iUkxknoaZt6s8Coed7knGiqRjWS6OI4__DjF0zfe_oFW06eFZTYYKbRCunlk6g=v1-rw-w100-h100-e365" group-title="GO WATCH", National Geographic
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/15953.m3u8?token=TUEMUBFQFVsUUgwHBQZUVFkCU1wBUQ9UVQdbDgYIUgEPUFADV1sAWVMWFRdHQxcHWQk6UV0SAwBXClYFGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBFFTCVMaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRCQ5VFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQZTBgUbSA==
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="https://lh3.googleusercontent.com/irLzLegETWhxbuzuqkELPE8Pa5mB0le12J_DhKmx1kbaKLfJwBeI4LXc9WeE2yDyYH7hapVEg3P5RIUuW6mmhg1c_bM1lWqP1yeDo1U=v1-rw-w100-h100-e365" group-title="GO WATCH", National Geographic Wild
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/22502.m3u8?token=TUEMUBFQFVsUAwlQAFYAVAoBVAoPAAAHUgtbDwVZVgYBVQZTUA8BVVcWFRdHQxcHWQk6UV0SAwNQBlMEGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1tUAlQaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNTAQFQFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQZUBwEbSA==
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://lh3.googleusercontent.com/J_ja2kxrKgrDMwIIONa82TFv25Lh_qWgNxKVelEWs9fMbrEYctD1bwtnID2_aXHtLf1AkW41b2-p2NBrVKm-XH3Io8kzrVc2UK9S=v1-rw-w100-h100-e365" group-title="GO WATCH", MTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.15:25461/live/A5fmpZqDfG/5468440902/23288.m3u8?token=TUEMUBFQFVsUBl1WAFZdW1lQVgkNAQwIAQtbD1NdUQZQAgFTBAhUBwQWFRdHQxcHWQk6UV0SAwNRAVsOGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBAVtUAUAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgNXDQFDGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNQAANXBRZE
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://lh3.googleusercontent.com/-_ZtHSc6abKRKc0Tf5Y4tabHvRtKbC3ggIGTSw2duYgR9G7jaAnYZIKLup3HdDymAEFJrJ2z3PgNsL7WPsj4I4RD4MfTcJhhKntZBQ=v1-rw-w100-h100-e365" group-title="GO WATCH", Investigation Discovery
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/22513.m3u8?token=TUEMUBFQFVsUUVsEBwBQVg4AVVtdVV0DWgJTAw4PVlFVUFBUAwpUWVQWFRdHQxcHWQk6UV0SAwNQBlIFGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1ZUA1oaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNQCwdUFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACQZUAAYbSA==
 
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://lh3.googleusercontent.com/pVSsPK1JNlhZmh83ya-3pgw_qxOSEIey9zSBwNUG7E1CyrOxW_tCh7i0sjUGJanxulX9mZF361hQWR2j95oYkULxFJr882dIO6tMKQ=v1-rw-w100-h100-e365" group-title="GO WATCH", Food Network
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
