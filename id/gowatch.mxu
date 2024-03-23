@@ -13,6 +13,53 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://lh3.googleusercontent.com/f32-16EqLq_YqmTWFsmtLLZ-GwrKZ_yMHX-1y9kX7NWJFDPSxgfHbmIiztrn6ckRbnBGoem3NmiT6B1V2y3nEeIK-l86qsd9wABKRiW6ZhEsS0sD-sc=v1-rw-w100-h100-e365" group-title="GO WATCH", Bein Sports
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/15922.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="GO WATCH", HBO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/15913.m3u8
+
+#EXTINF:-1 tvg-name="Starz" tvg-logo="https://lh3.googleusercontent.com/bse14hPOXpO68_l9COQLNMkWrGl1QwAUwGiu5MBcsJ6y0-27KbxNUdCC7g2nz9XnW-MWUiP_6BdbYikJ9eo1NKyLGoVnE9gAB4bhefU71sqH2pVM3GM=v1-rw-w100-h100-e365" group-title="GO WATCH", Starz
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/15906.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="" group-title="GO WATCH", History
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/15912.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://cms.cignal.tv/Upload/Images/Lifetime-Logo.jpg" group-title="GO WATCH", Lifetime
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/23293.m3u8
+
+#EXTINF:-1 tvg-name="Crime & Investigation" tvg-logo="https://cms.cignal.tv/Upload/Images/Crime-and-investigation.jpg" group-title="GO WATCH", Crime & Investigation
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/22551.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://cms.cignal.tv/Upload/Images/Travel-Channel-New-Logo.jpg" group-title="GO WATCH", Travel Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.26:8080/live/A5fmpZqDfG/5468440902/24856.m3u8
+
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://lh3.googleusercontent.com/nzfWOAMoQyKUxLzPnqLCOqpaKb27XYEK8Idf1psMZAOGwaLHTuMukExMjjfT9ml3VgWPC5zmDawbM7DizjKM1UNhoX3FPEuckv4=v1-rw-w100-h100-e365" group-title="GO WATCH", TLC
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
