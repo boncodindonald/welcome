@@ -3,10 +3,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://lh3.googleusercontent.com/5f8uIUJdMM__Oyy1Ri-K9uc6iyj3RGTO0w_OcCJNOt8X7mV1ScQyTXs5nrhSbyjNkbHMRNdWXls79qGNgOHNhD9Aqeq_MvwDy0EuCw=v1-rw-w100-h100-e365" group-title="GO WATCH", Comedy Central
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/15933.m3u8?token=TUEMUBFQFVsUVQBXV1FQWghRVAEMBQEAAwdSV1QKC1UEVgdTUgtUVlMWFRdHQxcHWQk6UV0SAwBXClAFGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBVFQAFEaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRDQ5TFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACwZXDwwbSA==
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://lh3.googleusercontent.com/pnrRfZtPfKK-AjkUMGQKJtGHEAtMDFiB6c4faSf3kNz13a0o14-ngZoDuBn2Vmx-nZwb_8ewD3lmpJ2pg7B5qTPbHpfyLRGjhFemmTM=v1-rw-w100-h100-e365" group-title="GO WATCH", Animal Planet
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
