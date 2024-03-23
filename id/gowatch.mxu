@@ -43,10 +43,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://lh3.googleusercontent.com/Otb-dxmiajXWZ9o9EYgl9cRw7naXG3wWaja0EsxiyyzTFjZ8I4gqNHmGfvHJa9iJqeBxnnK1BFLdkZCwtZJoE-5VuMzoe0kvmMdD=v1-rw-w100-h100-e365" group-title="GO WATCH", NBA TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.14:25461/live/A5fmpZqDfG/5468440902/22501.m3u8?token=TUEMUBFQFVsUAgwGBgYBUghcXAEKVQxTVwsCAVBeAVNQBVQJUAFUUVAWFRdHQxcHWQk6UV0SAwNQBlMHGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBFRQBlsaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNUDgFQFBgbVltCCxZKHUcCG2BxE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtADA5UDhZE
 
 #EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="GO WATCH", ABC Australia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
