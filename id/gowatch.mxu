@@ -28,15 +28,17 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="https://lh3.googleusercontent.com/UBuxKhJ9WVd-BngHaYtcuzLzNmklJ1zlZNemMHQrqq858fOkdtNc-a11no35B_Pov2X9Y6SoM2chkludSSfgt_P1GzRybca7q_ob6Q=v1-rw-w100-h100-e365" group-title="GO WATCH", ESPN News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.14:25461/live/A5fmpZqDfG/5468440902/23213.m3u8?token=TUEMUBFQFVsUVgAAAlVcW11cAwoLAgoBVQpaAwNcAgFVAVEHVVwBA1IWFRdHQxcHWQk6UV0SAwNRAVIFGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1BSAFcaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNUCA5YFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtADQdWABZE
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://lh3.googleusercontent.com/cwf68ystm_0XG4Q1oCZHCsTKMqKoey-Jk6Y2Q-p9zVklTyWnkax3JTxTNAOk0al27kSWRndiGB1cDL3gN2J_v7yF-u7CWygkvO11fic=v1-rw-w100-h100-e365" group-title="GO WATCH", ESPN2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.14:25461/live/A5fmpZqDfG/5468440902/15950.m3u8?token=TUEMUBFQFVsUAAkCDFJSV14BAw9aAVxXBwECBQJZAlEOBQJVUgEDBQ4WFRdHQxcHWQk6UV0SAwBXClYGGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1NQAlIaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRAQBTFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACgBUBhZE
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://lh3.googleusercontent.com/zpISCBo69e9lyZOwhJbVg9BkR57NhQLsIbmw9XDliq8kvmgTCoM1_u5yWXRlz6NJS-hRw09kF5z2XRP_8jzjqyV2xjlahyYGIxIP=v1-rw-w100-h100-e365" group-title="GO WATCH", ESPN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
