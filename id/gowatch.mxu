@@ -43,10 +43,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://lh3.googleusercontent.com/pVSsPK1JNlhZmh83ya-3pgw_qxOSEIey9zSBwNUG7E1CyrOxW_tCh7i0sjUGJanxulX9mZF361hQWR2j95oYkULxFJr882dIO6tMKQ=v1-rw-w100-h100-e365" group-title="GO WATCH", Food Network
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/23323.m3u8?token=TUEMUBFQFVsUB1sBAgQBV10HVgFbUw8AVgAHB1UNB1cOBgAHVV0BBQAWFRdHQxcHWQk6UV0SAwNRAFEFGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBVNTCEAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgNVDQ9DGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNTCA5YBRZE
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://lh3.googleusercontent.com/7c4_A6KKwE6XC0ZuAgCXRHENaBwgg4FHmukJ7JpiQ6kB5MbUVGakNSuADYPdJWmzFW_KzgavWAFUYc926Z5Nc1b3nu7o1Cp6eZptNA=v1-rw-w100-h100-e365" group-title="GO WATCH", Discovery Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
