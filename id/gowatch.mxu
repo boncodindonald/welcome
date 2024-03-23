@@ -13,10 +13,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://lh3.googleusercontent.com/OTCbk2SlPRIQaNs--QVQe5txOQcdzwFQcZEHz4IdcDWPEnGOCZA_4CAiwqhW8tnp2g0E0B0WJA906Q74d6FTxFCAKquRcyTzSozH8Q=v1-rw-w100-h100-e365" group-title="GO WATCH", AMC
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/22572.m3u8?token=TUEMUBFQFVsUDQlTDA5RUQ9TUVoBVQ9TUgtWAwABBgJUBQcDAFsHVAAWFRdHQxcHWQk6UV0SAwNQBlQEGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBAFFQAkAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgJXDAJDGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNTCQ9RBxZE
 
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://lh3.googleusercontent.com/x999zH2f--y0IVkl87HSqG-XS1P1NrIidai5KsEVVhviDYPWHT8S3GzHTnXRDmGuhFZXshouGgmJouzNCBHjVBhZttGVlaiSAVT4=v1-rw-w100-h100-e365" group-title="GO WATCH", TNT
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
