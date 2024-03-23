@@ -3,6 +3,57 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GO WATCH", 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://lh3.googleusercontent.com/7c4_A6KKwE6XC0ZuAgCXRHENaBwgg4FHmukJ7JpiQ6kB5MbUVGakNSuADYPdJWmzFW_KzgavWAFUYc926Z5Nc1b3nu7o1Cp6eZptNA=v1-rw-w100-h100-e365" group-title="GO WATCH", Discovery Channel
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.19:25461/live/A5fmpZqDfG/5468440902/22549.m3u8?token=TUEMUBFQFVsUUF8MDQdcAQ1UUg4ABFhSV1JXAlAPUQACVldXBgoHUAEWFRdHQxcHWQk6UV0SAwNQBlcPGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBA1ZSBkAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgNWCAJDGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNTCQFYARZE
+
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://lh3.googleusercontent.com/5f8uIUJdMM__Oyy1Ri-K9uc6iyj3RGTO0w_OcCJNOt8X7mV1ScQyTXs5nrhSbyjNkbHMRNdWXls79qGNgOHNhD9Aqeq_MvwDy0EuCw=v1-rw-w100-h100-e365" group-title="GO WATCH", Comedy Central
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -315,17 +366,23 @@ https://neetball.net/live/neet3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 http://206.212.244.18:25461/live/A5fmpZqDfG/5468440902/15959.m3u8?token=TUEMUBFQFVsUBQxWUlVUUllSUl4NA18IB1AHVFUKVVJTBQFVAAhWVgcWFRdHQxcHWQk6UV0SAwBXClYPGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBA1RRAEAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgJWCw9DGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNRCwBZFEk=
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/320px-2019_Disney_Channel_logo.svg.png" group-title="GO WATCH", Disney Channel
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://lh3.googleusercontent.com/wMgccY76vwmTCsPY7EcoZgjphL2JrOLohkLaJrnsbON7dqL6uWFoPNkZw4TOCKF1BkqwTffCQa69fA22LlK8rxeurnOcgqskv1AItw=v1-rw-w100-h100-e365" group-title="GO WATCH", Disney
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+http://206.212.244.18:25461/live/A5fmpZqDfG/5468440902/23332.m3u8?token=TUEMUBFQFVsUAVoNAABdWllXAAFfBQEBV1VQAQZdAVIGAlJSUgtSUwEWFRdHQxcHWQk6UV0SAwNRAFAEGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBDlVQCEAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgJRCgdDGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNRDgJQFEk=
 
-#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/320px-Disney_Junior.svg.png" group-title="GO WATCH", Disney Junior
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://lh3.googleusercontent.com/SnILKP58TiYXdEKDcCZ50P9LJ7O9hjGJIGClLZAuSSJyxoZbgbGkiuqCaXbI2sdcn08jJCxEd857QBBn18kSPt7Sfxb6y1J0r_6Y=v1-rw-w100-h100-e365" group-title="GO WATCH", Disney Junior
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+http://206.212.244.17:25461/live/A5fmpZqDfG/5468440902/47621.m3u8?token=TUEMUBFQFVsUUA1UAVUAUABXXFwPBQ8DAQBWVAVbVVBXV1JXUgsHVgIWFRdHQxcHWQk6UV0SAwVVBVEHGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBB1FXAVEaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNRCgZYFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtAAQBQDxZE
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://lh3.googleusercontent.com/s3x2DCei3r3UBA0BIllEkyDNl33QyD5rf4bXbznOIbpNyIb8rqykxfvnceDNNyGr7t4J9zxvYIfTTskGEN-qaqmoSFPbo73QyJxz=v1-rw-w100-h100-e365" group-title="GO WATCH", Disney XD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
+http://206.212.244.18:25461/live/A5fmpZqDfG/5468440902/23330.m3u8?token=TUEMUBFQFVsUBw0DUFNSBA1UAwkIBQoIUgcBBlMPBwcAW1FVBg8DAwAWFRdHQxcHWQk6UV0SAwNRAFAGGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBBFddAVsaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNQDwZUFBgbVltCCxZKHUcCG3d7E04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtACwFSDhZE
 
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TV_Tokyo_logo_2023_en.svg/320px-TV_Tokyo_logo_2023_en.svg.png" group-title="GO WATCH", TV Tokyo
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
