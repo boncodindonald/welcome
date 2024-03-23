@@ -308,11 +308,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
 https://neetball.net/live/neet3.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="GO WATCH", Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://lh3.googleusercontent.com/S03YXuyg_M2XyhEbasEOtqayY6jnQ-PNkuiey-SKzs_Iejy3uBnQRdnQ62zyGRdk9eADnUqrXnRHeMUD59-HggzA-t55ChmigVNl=v1-rw-w100-h100-e365" group-title="GO WATCH", Cartoon Network
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=itemID=&kid=
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+http://206.212.244.18:25461/live/A5fmpZqDfG/5468440902/15959.m3u8?token=TUEMUBFQFVsUBQxWUlVUUllSUl4NA18IB1AHVFUKVVJTBQFVAAhWVgcWFRdHQxcHWQk6UV0SAwBXClYPGhpGEFMRO1gGGg1DBAMLAwEGR04aEAxVXBIDAU4RE19SGglBA1RRAEAUFQROQFxHWlYJPVwBE1FaVRsLDEYPWhoaXA1pBwFcA1ZTQwwWCRcYFQwRSEZfVkxcVR1AUQpCRFlHBhRZRgJWCw9DGhZaWkFZERBBRl8afnIbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNRCwBZFEk=
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/320px-2019_Disney_Channel_logo.svg.png" group-title="GO WATCH", Disney Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
