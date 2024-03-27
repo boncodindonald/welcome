@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function() {
   hls26.attachMedia(videoPlayer26);
   const videoPlayer27 = document.getElementById('videoPlayer27');
   const hls27 = new Hls();
-  hls27.loadSource('https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8');
+  hls27.loadSource('https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8');
   hls27.attachMedia(videoPlayer27);
   const videoPlayer28 = document.getElementById('videoPlayer28');
   const hls28 = new Hls();
@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function() {
   hls47.attachMedia(videoPlayer47);
   const videoPlayer48 = document.getElementById('videoPlayer48');
   const hls48 = new Hls();
-  hls48.loadSource('https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8');
+  hls48.loadSource('https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8');
   hls48.attachMedia(videoPlayer48);
 }
 });
